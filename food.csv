@@ -1,0 +1,1001 @@
+item_code ,name ,price ,cosher ,healthy ,manufacturing_country ,weight ,manufacturing_date ,expiry_date 
+1,bread,2132,1,4,Brazil,41,9/22/2020,3/16/2022
+2,bread,3035,1,3,Philippines,34,3/6/2021,2/24/2022
+3,dairy products,665,0,1,Peru,100,9/3/2020,9/1/2021
+4,meat products,1465,0,10,Philippines,64,1/11/2021,9/16/2021
+5,meat products,3039,1,1,China,30,2/4/2021,10/9/2021
+6,meat products,693,1,5,Jordan,47,11/24/2020,2/8/2022
+7,dairy products,2452,1,10,Philippines,10,9/25/2020,1/20/2022
+8,bread,3548,0,8,Portugal,96,11/4/2020,10/19/2021
+9,dairy products,3030,1,8,Philippines,65,11/6/2020,12/24/2021
+10,meat products,2016,0,5,Morocco,3,7/2/2020,9/12/2021
+11,bread,2069,1,6,China,85,12/14/2020,4/5/2022
+12,dairy products,498,1,5,Russia,64,3/24/2021,6/5/2021
+13,bread,102,1,1,Argentina,47,8/11/2020,1/17/2022
+14,meat products,1471,0,8,China,60,10/27/2020,7/22/2021
+15,bread,1384,1,9,Honduras,18,5/18/2020,4/3/2022
+16,meat products,1422,0,8,Indonesia,12,4/22/2021,8/10/2021
+17,dairy products,238,1,6,Swaziland,73,6/10/2020,10/21/2021
+18,meat products,376,1,10,Pakistan,85,10/20/2020,11/29/2021
+19,bread,4544,0,1,Chile,5,9/21/2020,3/23/2022
+20,dairy products,4446,0,6,South Africa,61,6/7/2020,8/19/2021
+21,meat products,1523,0,1,China,15,5/9/2020,8/9/2021
+22,meat products,1131,0,1,Czech Republic,21,8/7/2020,6/6/2021
+23,bread,1269,1,7,Democratic Republic of the Congo,52,8/6/2020,4/14/2022
+24,bread,1476,1,7,Sweden,62,4/11/2021,2/28/2022
+25,meat products,617,1,1,China,53,3/5/2021,9/27/2021
+26,bread,3088,0,6,France,84,2/1/2021,9/19/2021
+27,dairy products,2001,0,5,Philippines,38,4/5/2021,9/2/2021
+28,bread,3690,0,8,Cameroon,61,5/29/2020,3/7/2022
+29,meat products,2486,0,2,Russia,54,8/14/2020,11/9/2021
+30,bread,4296,1,1,Chile,60,10/19/2020,8/18/2021
+31,bread,24,0,8,Bahrain,54,7/17/2020,8/4/2021
+32,meat products,3625,0,3,Panama,36,5/3/2020,9/29/2021
+33,bread,66,1,6,Indonesia,10,12/29/2020,10/9/2021
+34,bread,899,0,6,Japan,45,10/27/2020,4/22/2022
+35,dairy products,4538,0,1,Ukraine,29,2/27/2021,2/19/2022
+36,meat products,1985,1,8,Mexico,63,5/14/2020,4/4/2022
+37,bread,3020,0,1,China,96,4/11/2021,4/26/2021
+38,bread,4768,0,10,China,78,10/6/2020,11/11/2021
+39,meat products,392,1,6,Poland,69,8/16/2020,9/30/2021
+40,dairy products,3353,1,9,China,89,9/20/2020,2/18/2022
+41,bread,368,1,4,China,56,11/20/2020,2/6/2022
+42,meat products,1013,1,1,Croatia,41,8/28/2020,6/8/2021
+43,meat products,707,1,3,Sweden,25,3/22/2021,1/23/2022
+44,dairy products,3183,1,7,Indonesia,78,4/9/2021,3/26/2022
+45,meat products,2235,0,8,Greece,69,12/6/2020,6/20/2021
+46,bread,4550,1,2,Kazakhstan,7,2/8/2021,2/8/2022
+47,meat products,905,0,3,China,93,8/11/2020,5/21/2021
+48,meat products,2338,1,9,China,19,7/8/2020,8/22/2021
+49,dairy products,406,1,6,Lithuania,65,6/15/2020,10/26/2021
+50,meat products,3406,0,8,Russia,13,10/27/2020,9/10/2021
+51,meat products,2131,0,3,Portugal,37,12/20/2020,12/24/2021
+52,dairy products,4164,1,5,Philippines,98,12/2/2020,3/15/2022
+53,dairy products,4814,0,3,Croatia,57,8/6/2020,12/5/2021
+54,meat products,4299,1,10,Philippines,22,4/6/2021,9/14/2021
+55,bread,4368,0,1,Poland,71,10/8/2020,9/23/2021
+56,dairy products,2213,1,4,Brazil,73,3/10/2021,8/14/2021
+57,bread,4703,1,9,China,30,6/19/2020,12/1/2021
+58,meat products,2035,0,1,France,64,4/6/2021,11/21/2021
+59,dairy products,4202,0,10,Indonesia,21,6/5/2020,2/5/2022
+60,dairy products,2459,1,3,Ukraine,3,5/2/2020,5/25/2021
+61,dairy products,2265,1,1,Malaysia,85,5/26/2020,12/26/2021
+62,bread,2681,1,6,Vietnam,34,7/9/2020,9/16/2021
+63,bread,1724,0,2,Portugal,74,7/27/2020,1/4/2022
+64,meat products,756,0,8,Bolivia,54,9/14/2020,10/22/2021
+65,dairy products,3662,0,4,Japan,63,6/17/2020,3/13/2022
+66,dairy products,4891,1,7,Sweden,83,2/14/2021,6/23/2021
+67,dairy products,1827,1,1,China,87,10/8/2020,7/10/2021
+68,dairy products,3732,1,7,Russia,77,4/25/2020,7/14/2021
+69,bread,2562,1,2,Mexico,27,8/1/2020,5/16/2021
+70,dairy products,812,1,5,Ireland,24,9/25/2020,11/25/2021
+71,dairy products,2395,0,8,South Korea,77,8/19/2020,11/9/2021
+72,bread,3645,0,9,Indonesia,32,12/2/2020,10/20/2021
+73,meat products,3985,0,4,New Zealand,92,10/30/2020,9/19/2021
+74,bread,2096,1,6,Russia,43,11/6/2020,9/16/2021
+75,dairy products,1985,0,8,Sweden,58,12/30/2020,9/9/2021
+76,dairy products,4371,1,5,Portugal,98,6/27/2020,11/24/2021
+77,meat products,1563,1,9,Indonesia,62,3/17/2021,7/26/2021
+78,meat products,1005,0,10,Kazakhstan,12,7/11/2020,3/27/2022
+79,dairy products,827,0,1,Iran,55,3/13/2021,11/5/2021
+80,bread,3694,1,8,France,49,3/15/2021,4/19/2022
+81,bread,2828,0,8,Ukraine,17,12/17/2020,11/20/2021
+82,dairy products,3091,1,1,Jordan,15,1/18/2021,8/18/2021
+83,meat products,1910,1,9,Portugal,94,7/8/2020,10/29/2021
+84,meat products,4213,1,9,Indonesia,86,1/4/2021,11/7/2021
+85,meat products,1214,0,5,Netherlands,19,5/14/2020,5/8/2021
+86,meat products,2963,1,1,Ukraine,12,6/27/2020,1/9/2022
+87,bread,3239,0,3,Mexico,60,6/2/2020,10/1/2021
+88,dairy products,4162,0,1,Myanmar,95,11/17/2020,12/10/2021
+89,meat products,1366,0,9,Indonesia,81,10/15/2020,10/20/2021
+90,dairy products,1571,1,3,Poland,12,3/3/2021,12/12/2021
+91,meat products,387,0,6,United States,17,8/26/2020,8/29/2021
+92,meat products,2435,0,6,China,20,7/15/2020,8/15/2021
+93,bread,2968,0,2,Indonesia,53,11/21/2020,4/15/2022
+94,dairy products,565,0,10,Canada,9,5/30/2020,7/15/2021
+95,meat products,154,0,9,Poland,14,8/26/2020,4/28/2021
+96,bread,3807,1,2,Brazil,57,8/16/2020,11/28/2021
+97,dairy products,3403,1,3,San Marino,75,3/14/2021,1/25/2022
+98,dairy products,361,0,2,Philippines,64,4/4/2021,4/5/2022
+99,bread,2004,0,3,China,89,4/15/2021,5/23/2021
+100,dairy products,4212,0,4,Nicaragua,4,5/23/2020,10/17/2021
+101,bread,2283,0,6,Indonesia,13,3/18/2021,5/26/2021
+102,bread,46,0,4,Russia,79,5/19/2020,4/24/2021
+103,meat products,1908,0,4,Russia,53,3/8/2021,12/29/2021
+104,bread,1854,1,6,China,7,8/24/2020,1/30/2022
+105,bread,3708,0,10,Japan,61,8/30/2020,1/15/2022
+106,meat products,3296,0,6,China,40,12/12/2020,7/27/2021
+107,dairy products,4775,1,5,China,8,12/12/2020,8/18/2021
+108,dairy products,2148,0,6,Brazil,4,1/15/2021,3/24/2022
+109,bread,1012,1,5,Brazil,72,5/10/2020,8/20/2021
+110,meat products,2257,0,1,Indonesia,91,2/26/2021,8/23/2021
+111,meat products,3547,1,6,China,92,10/1/2020,8/9/2021
+112,dairy products,1623,0,6,United States,61,6/19/2020,1/27/2022
+113,bread,1121,0,10,Russia,37,9/20/2020,10/10/2021
+114,dairy products,4836,1,6,North Korea,49,4/22/2021,1/9/2022
+115,dairy products,4051,1,2,South Africa,74,2/2/2021,3/22/2022
+116,bread,507,0,5,Armenia,50,11/17/2020,9/3/2021
+117,bread,500,1,3,China,18,1/4/2021,3/9/2022
+118,dairy products,834,1,10,Greece,63,3/22/2021,6/9/2021
+119,meat products,542,0,1,Philippines,6,8/9/2020,7/19/2021
+120,bread,1539,0,1,Indonesia,10,6/4/2020,2/12/2022
+121,dairy products,3401,1,7,China,76,5/21/2020,2/10/2022
+122,meat products,12,1,8,Portugal,22,9/10/2020,4/26/2021
+123,bread,4529,0,9,Portugal,3,12/1/2020,1/30/2022
+124,bread,807,1,3,Japan,86,12/13/2020,4/18/2022
+125,dairy products,4273,0,2,Japan,39,5/20/2020,4/2/2022
+126,dairy products,1119,0,5,China,62,8/2/2020,6/27/2021
+127,bread,4028,0,9,Brazil,67,1/17/2021,7/22/2021
+128,bread,3016,1,9,Ukraine,85,12/27/2020,8/25/2021
+129,bread,640,1,5,China,65,4/6/2021,5/18/2021
+130,meat products,4051,0,10,Sweden,98,11/17/2020,7/4/2021
+131,bread,597,1,10,Poland,3,12/23/2020,6/5/2021
+132,bread,592,0,6,Thailand,50,3/21/2021,11/28/2021
+133,meat products,599,0,8,Brazil,36,2/22/2021,1/28/2022
+134,dairy products,3370,0,1,Czech Republic,72,9/16/2020,9/6/2021
+135,dairy products,3742,1,9,China,49,10/20/2020,1/21/2022
+136,dairy products,1223,1,10,Lithuania,21,11/27/2020,12/26/2021
+137,bread,3396,0,2,Mongolia,66,2/22/2021,4/28/2021
+138,dairy products,4013,0,10,United States,52,1/10/2021,12/29/2021
+139,bread,572,1,9,Philippines,5,6/12/2020,10/20/2021
+140,bread,86,1,7,Indonesia,65,1/5/2021,1/17/2022
+141,dairy products,1545,0,10,Russia,91,8/25/2020,12/15/2021
+142,bread,3008,0,1,Russia,71,11/23/2020,11/1/2021
+143,bread,479,1,1,Peru,10,12/31/2020,10/30/2021
+144,meat products,3091,1,3,Nigeria,79,8/24/2020,12/21/2021
+145,meat products,1366,1,1,Nigeria,28,3/9/2021,2/8/2022
+146,dairy products,4971,0,8,Indonesia,5,8/24/2020,2/26/2022
+147,dairy products,2208,0,3,China,23,3/27/2021,8/27/2021
+148,dairy products,1255,0,2,Philippines,33,1/12/2021,1/10/2022
+149,dairy products,2989,1,5,Russia,20,3/31/2021,9/18/2021
+150,bread,2569,0,7,China,66,3/13/2021,9/14/2021
+151,bread,2881,1,3,China,5,8/21/2020,12/3/2021
+152,meat products,2994,0,5,Poland,83,10/2/2020,5/18/2021
+153,bread,399,0,8,United States,35,8/6/2020,11/18/2021
+154,bread,2424,1,1,China,88,3/15/2021,5/31/2021
+155,meat products,3564,1,8,China,77,5/20/2020,12/14/2021
+156,dairy products,3234,0,10,Russia,61,10/23/2020,1/27/2022
+157,meat products,4963,1,5,Ukraine,41,9/28/2020,4/3/2022
+158,dairy products,2214,0,9,Colombia,46,12/28/2020,4/30/2021
+159,dairy products,3695,0,3,Philippines,12,5/12/2020,10/19/2021
+160,dairy products,1387,1,10,Chad,62,11/19/2020,11/13/2021
+161,dairy products,1008,1,6,Russia,47,4/13/2021,12/15/2021
+162,dairy products,266,1,4,Indonesia,7,1/8/2021,8/27/2021
+163,dairy products,2207,0,2,Bangladesh,86,4/11/2021,12/10/2021
+164,bread,4374,1,3,Canada,71,12/13/2020,3/7/2022
+165,meat products,4316,0,5,Sweden,42,12/31/2020,3/17/2022
+166,dairy products,4119,1,8,Brazil,49,4/12/2021,6/7/2021
+167,dairy products,655,1,10,Malaysia,30,3/21/2021,4/14/2022
+168,bread,4734,1,9,China,57,5/30/2020,12/15/2021
+169,meat products,1294,0,4,Chile,34,8/14/2020,6/7/2021
+170,meat products,887,0,4,Thailand,75,10/11/2020,9/23/2021
+171,meat products,427,1,3,Greece,8,2/14/2021,9/22/2021
+172,meat products,2796,1,7,Venezuela,62,7/21/2020,6/13/2021
+173,bread,1884,0,3,France,26,6/12/2020,8/11/2021
+174,bread,3512,0,4,Russia,94,8/2/2020,4/17/2022
+175,bread,1007,1,7,Philippines,13,11/7/2020,10/8/2021
+176,dairy products,935,1,3,China,39,7/26/2020,8/29/2021
+177,meat products,2711,0,4,Dominican Republic,83,1/19/2021,4/25/2021
+178,meat products,2779,1,9,Portugal,94,3/23/2021,12/2/2021
+179,dairy products,2516,1,7,Greece,5,4/1/2021,7/2/2021
+180,dairy products,1297,1,4,Ukraine,63,1/10/2021,4/23/2022
+181,dairy products,2678,0,2,Thailand,47,5/28/2020,7/15/2021
+182,meat products,1263,1,9,Indonesia,71,5/3/2020,9/25/2021
+183,dairy products,2650,0,2,China,45,4/19/2021,6/17/2021
+184,meat products,935,1,8,Ethiopia,45,12/5/2020,3/5/2022
+185,dairy products,4010,0,10,Indonesia,37,7/23/2020,3/20/2022
+186,meat products,176,1,7,Poland,72,3/8/2021,5/7/2021
+187,meat products,316,1,8,China,78,10/22/2020,4/13/2022
+188,dairy products,4128,1,2,Indonesia,67,3/24/2021,1/4/2022
+189,bread,2038,1,7,Indonesia,72,8/30/2020,9/30/2021
+190,meat products,3787,1,8,China,24,9/16/2020,3/26/2022
+191,dairy products,4473,0,4,Trinidad and Tobago,63,8/22/2020,7/13/2021
+192,bread,1177,0,8,Brazil,68,2/13/2021,1/19/2022
+193,bread,4735,0,7,Japan,32,5/23/2020,6/4/2021
+194,bread,194,0,8,Russia,65,11/5/2020,2/4/2022
+195,bread,2763,1,10,Panama,31,5/18/2020,5/6/2021
+196,bread,4862,0,7,Poland,62,4/13/2021,8/11/2021
+197,bread,702,1,2,Malaysia,8,5/3/2020,6/30/2021
+198,bread,1054,1,4,Russia,46,5/19/2020,11/2/2021
+199,bread,1593,0,1,China,92,4/30/2020,7/12/2021
+200,dairy products,1582,0,3,Netherlands,81,6/14/2020,2/3/2022
+201,bread,4669,1,5,Indonesia,18,1/6/2021,5/6/2021
+202,dairy products,1988,0,7,Chile,61,9/6/2020,11/22/2021
+203,dairy products,783,0,4,Luxembourg,9,4/15/2021,8/11/2021
+204,dairy products,3556,0,9,China,83,6/5/2020,2/19/2022
+205,dairy products,778,0,1,Libya,2,11/20/2020,3/15/2022
+206,meat products,4207,1,7,Poland,2,12/22/2020,3/22/2022
+207,bread,1002,1,6,Indonesia,4,4/14/2021,5/17/2021
+208,meat products,2468,0,6,Germany,92,11/18/2020,8/13/2021
+209,meat products,1891,0,9,Indonesia,7,10/16/2020,7/9/2021
+210,bread,2004,0,1,Tajikistan,67,7/31/2020,9/14/2021
+211,meat products,4108,1,9,Poland,63,5/22/2020,6/10/2021
+212,dairy products,3517,0,6,Ukraine,47,12/8/2020,2/26/2022
+213,dairy products,2476,0,6,Poland,7,1/4/2021,5/8/2021
+214,dairy products,2572,0,7,Syria,17,10/17/2020,4/15/2022
+215,bread,2631,0,7,China,90,12/6/2020,6/6/2021
+216,bread,862,1,4,Kosovo,73,1/23/2021,10/2/2021
+217,bread,829,1,2,Finland,84,4/12/2021,8/30/2021
+218,meat products,2467,0,4,Jordan,96,2/18/2021,9/13/2021
+219,meat products,4455,0,9,Sweden,99,8/22/2020,7/12/2021
+220,dairy products,3881,1,5,Bangladesh,66,5/20/2020,6/14/2021
+221,dairy products,1716,0,6,Guatemala,63,11/5/2020,6/26/2021
+222,bread,2759,1,9,Poland,30,5/1/2020,9/8/2021
+223,dairy products,4002,0,4,China,38,5/18/2020,12/14/2021
+224,meat products,306,0,1,Brazil,6,11/24/2020,11/16/2021
+225,bread,4990,1,9,China,55,2/10/2021,12/7/2021
+226,meat products,4650,0,4,Russia,87,12/22/2020,5/21/2021
+227,meat products,1131,0,2,Norway,86,11/2/2020,1/11/2022
+228,bread,4549,1,1,Netherlands,75,10/30/2020,1/22/2022
+229,meat products,3038,1,6,Greece,23,7/15/2020,5/14/2021
+230,bread,457,1,9,Ireland,70,1/3/2021,10/23/2021
+231,bread,2197,1,2,China,22,7/22/2020,4/11/2022
+232,bread,2893,0,5,Indonesia,58,9/2/2020,11/25/2021
+233,bread,2571,1,4,China,44,9/23/2020,9/13/2021
+234,meat products,209,1,7,Pakistan,85,5/2/2020,2/6/2022
+235,dairy products,4068,1,9,Poland,62,10/29/2020,6/20/2021
+236,bread,796,0,9,Philippines,71,10/22/2020,3/3/2022
+237,meat products,454,0,4,Nigeria,4,3/28/2021,2/24/2022
+238,meat products,4897,1,6,Russia,80,12/31/2020,1/25/2022
+239,meat products,3760,1,8,Jamaica,91,9/26/2020,8/31/2021
+240,dairy products,2845,1,1,Macedonia,55,2/1/2021,1/18/2022
+241,meat products,1560,0,8,China,85,6/21/2020,6/10/2021
+242,dairy products,4030,0,5,Indonesia,20,6/23/2020,8/21/2021
+243,bread,672,0,2,Philippines,60,11/14/2020,7/19/2021
+244,meat products,3317,1,7,China,37,2/4/2021,9/8/2021
+245,meat products,858,1,4,China,74,3/4/2021,11/1/2021
+246,bread,398,0,10,Guatemala,65,5/30/2020,7/15/2021
+247,bread,42,1,9,Sweden,59,1/8/2021,12/22/2021
+248,dairy products,4156,0,10,Honduras,83,9/4/2020,10/20/2021
+249,bread,36,0,6,Japan,88,7/13/2020,6/24/2021
+250,bread,2486,0,7,Mali,81,7/2/2020,1/7/2022
+251,meat products,4084,1,10,Poland,30,2/22/2021,3/17/2022
+252,meat products,422,1,7,Indonesia,96,10/25/2020,5/25/2021
+253,meat products,1653,1,2,Peru,14,2/24/2021,1/29/2022
+254,bread,4727,0,8,Philippines,47,11/27/2020,6/5/2021
+255,meat products,3563,0,9,Greece,57,2/9/2021,9/1/2021
+256,bread,4858,1,4,Germany,1,3/5/2021,5/12/2021
+257,bread,535,1,10,Sweden,13,1/16/2021,11/10/2021
+258,meat products,936,1,10,Russia,62,9/19/2020,5/31/2021
+259,dairy products,3811,0,3,Canada,42,1/11/2021,7/2/2021
+260,bread,4963,0,5,Gambia,82,2/6/2021,10/25/2021
+261,dairy products,2361,0,3,Guatemala,51,6/21/2020,8/16/2021
+262,meat products,747,0,6,Poland,64,8/5/2020,6/6/2021
+263,bread,2645,0,2,United States,76,10/3/2020,2/2/2022
+264,meat products,1438,0,2,Indonesia,96,8/5/2020,9/26/2021
+265,bread,4780,1,9,Estonia,94,9/24/2020,5/16/2021
+266,meat products,309,1,6,China,60,1/18/2021,8/6/2021
+267,meat products,2040,1,2,Sri Lanka,50,5/31/2020,9/11/2021
+268,bread,2776,1,6,Sierra Leone,21,3/5/2021,2/19/2022
+269,bread,1797,1,3,Brazil,15,6/17/2020,5/23/2021
+270,dairy products,629,0,5,Indonesia,7,10/20/2020,3/4/2022
+271,meat products,4863,1,6,China,27,1/25/2021,4/4/2022
+272,dairy products,4120,0,6,Japan,12,10/11/2020,11/5/2021
+273,meat products,1815,0,5,China,30,12/25/2020,8/27/2021
+274,dairy products,858,1,2,Jamaica,75,1/31/2021,1/12/2022
+275,dairy products,4352,0,8,Czech Republic,14,3/12/2021,3/19/2022
+276,meat products,4272,1,2,China,64,5/18/2020,6/16/2021
+277,meat products,1943,1,1,Ireland,93,4/8/2021,8/22/2021
+278,dairy products,1133,0,1,Indonesia,51,5/15/2020,1/12/2022
+279,meat products,1875,1,5,Argentina,56,1/5/2021,5/24/2021
+280,bread,69,1,4,Georgia,23,3/17/2021,7/22/2021
+281,dairy products,1628,0,4,Indonesia,24,3/22/2021,3/4/2022
+282,bread,4848,0,6,Canada,76,4/29/2020,11/28/2021
+283,bread,3990,1,7,Sweden,33,7/31/2020,12/25/2021
+284,bread,4654,1,8,China,9,6/29/2020,9/10/2021
+285,meat products,2768,1,10,China,68,12/6/2020,9/30/2021
+286,meat products,3435,1,10,Slovenia,20,5/20/2020,12/7/2021
+287,meat products,3690,1,3,Russia,4,1/21/2021,7/21/2021
+288,meat products,2199,1,2,Canada,76,5/13/2020,7/15/2021
+289,meat products,2338,1,5,Sweden,9,6/8/2020,11/3/2021
+290,dairy products,2541,0,7,Kenya,42,1/26/2021,12/11/2021
+291,bread,674,0,7,France,36,4/6/2021,8/10/2021
+292,bread,3961,1,7,Panama,92,10/13/2020,9/22/2021
+293,meat products,983,0,1,Brazil,90,11/24/2020,4/4/2022
+294,dairy products,4385,0,6,Argentina,24,4/14/2021,3/16/2022
+295,meat products,1980,0,10,China,44,4/6/2021,3/28/2022
+296,bread,2369,1,7,Portugal,44,6/10/2020,8/16/2021
+297,meat products,4458,1,3,Philippines,22,8/23/2020,7/9/2021
+298,dairy products,3906,0,2,Armenia,60,8/15/2020,10/26/2021
+299,dairy products,2312,0,2,China,45,4/10/2021,3/27/2022
+300,meat products,4787,1,10,Saudi Arabia,31,7/13/2020,5/6/2021
+301,meat products,3372,0,6,Venezuela,22,6/2/2020,10/11/2021
+302,dairy products,734,1,8,Indonesia,45,3/10/2021,10/17/2021
+303,bread,2431,1,9,French Southern Territories,84,6/11/2020,10/22/2021
+304,bread,2949,1,10,Japan,53,10/4/2020,7/10/2021
+305,meat products,106,1,4,Thailand,88,4/24/2020,5/21/2021
+306,dairy products,1189,1,5,China,71,2/14/2021,2/9/2022
+307,bread,4818,1,9,Tanzania,7,10/15/2020,8/26/2021
+308,meat products,3762,0,7,Ukraine,9,9/20/2020,11/29/2021
+309,bread,1470,0,9,Serbia,86,7/16/2020,4/11/2022
+310,bread,689,0,2,Vietnam,65,1/9/2021,5/10/2021
+311,bread,3926,1,4,Ukraine,87,5/20/2020,11/1/2021
+312,bread,4573,0,8,Spain,40,7/14/2020,1/4/2022
+313,dairy products,4133,0,3,China,69,10/22/2020,5/29/2021
+314,bread,4846,0,2,Russia,54,11/28/2020,6/20/2021
+315,meat products,157,1,5,Indonesia,78,4/13/2021,4/15/2022
+316,bread,2097,0,6,Democratic Republic of the Congo,18,5/20/2020,4/29/2021
+317,dairy products,3615,0,8,Finland,79,1/26/2021,6/22/2021
+318,dairy products,966,0,1,China,61,1/16/2021,1/12/2022
+319,bread,532,1,7,Serbia,30,10/14/2020,8/23/2021
+320,bread,4161,1,7,Afghanistan,28,4/15/2021,1/20/2022
+321,bread,520,0,2,Canada,28,2/11/2021,8/10/2021
+322,meat products,350,0,4,Indonesia,4,5/13/2020,7/29/2021
+323,meat products,3469,1,2,Azerbaijan,80,5/5/2020,10/21/2021
+324,meat products,2638,1,4,Sweden,49,6/10/2020,11/18/2021
+325,bread,476,0,4,Portugal,68,5/1/2020,8/24/2021
+326,dairy products,4676,1,2,China,9,7/13/2020,3/15/2022
+327,meat products,4775,0,9,China,66,10/13/2020,8/13/2021
+328,dairy products,3659,1,10,Indonesia,23,5/9/2020,3/13/2022
+329,bread,1980,0,3,China,49,4/7/2021,8/24/2021
+330,meat products,1290,1,1,Indonesia,15,11/3/2020,2/3/2022
+331,dairy products,1626,0,1,China,21,12/17/2020,4/21/2022
+332,dairy products,2941,0,10,Nigeria,58,4/27/2020,6/12/2021
+333,bread,609,0,4,Greece,34,11/14/2020,6/19/2021
+334,meat products,1426,1,10,South Africa,22,7/25/2020,12/26/2021
+335,dairy products,1485,0,2,Indonesia,18,8/24/2020,3/1/2022
+336,dairy products,4495,0,9,Pakistan,96,3/2/2021,11/27/2021
+337,dairy products,4701,0,1,Poland,82,1/14/2021,9/12/2021
+338,bread,1007,0,2,Russia,97,10/25/2020,6/2/2021
+339,meat products,4880,1,1,Armenia,93,5/23/2020,3/3/2022
+340,bread,1583,0,10,Czech Republic,80,3/31/2021,7/2/2021
+341,dairy products,447,1,10,Philippines,64,6/23/2020,4/16/2022
+342,meat products,1194,1,10,Malaysia,29,12/18/2020,12/26/2021
+343,bread,2804,0,3,New Zealand,81,3/23/2021,2/8/2022
+344,dairy products,3736,1,1,Philippines,21,7/11/2020,10/4/2021
+345,bread,1313,0,10,Costa Rica,37,12/3/2020,4/23/2022
+346,dairy products,2156,0,3,Botswana,6,10/22/2020,4/10/2022
+347,meat products,2283,0,2,China,2,2/5/2021,1/18/2022
+348,bread,4176,1,7,Uzbekistan,9,8/9/2020,7/15/2021
+349,bread,865,1,8,China,86,5/26/2020,9/20/2021
+350,dairy products,3304,1,4,Bosnia and Herzegovina,63,12/9/2020,4/30/2021
+351,meat products,1347,0,7,Colombia,95,1/25/2021,9/29/2021
+352,bread,3239,1,7,South Africa,37,4/14/2021,5/31/2021
+353,dairy products,2245,0,1,Uganda,89,1/13/2021,3/17/2022
+354,dairy products,4490,1,9,Russia,70,5/19/2020,5/23/2021
+355,dairy products,864,1,8,Thailand,73,2/26/2021,5/21/2021
+356,bread,4035,0,6,Ecuador,78,5/14/2020,2/13/2022
+357,dairy products,572,1,6,China,12,8/3/2020,5/7/2021
+358,bread,4917,0,8,Philippines,8,2/18/2021,7/8/2021
+359,meat products,2698,1,10,Portugal,5,9/5/2020,8/6/2021
+360,bread,4293,0,6,South Africa,79,8/6/2020,6/8/2021
+361,bread,3631,1,9,Indonesia,1,1/23/2021,10/2/2021
+362,meat products,3211,1,7,Canada,31,6/23/2020,12/14/2021
+363,bread,4075,0,6,China,94,7/3/2020,9/15/2021
+364,meat products,3355,1,3,Thailand,84,6/21/2020,5/31/2021
+365,bread,537,0,3,Nigeria,54,2/13/2021,2/16/2022
+366,meat products,3196,1,6,Ukraine,70,11/28/2020,7/30/2021
+367,bread,510,0,8,Philippines,50,9/21/2020,12/28/2021
+368,meat products,3934,0,2,New Zealand,77,5/24/2020,5/23/2021
+369,dairy products,1773,0,6,Tanzania,88,6/10/2020,3/23/2022
+370,meat products,31,0,4,United States,26,10/10/2020,1/6/2022
+371,dairy products,2641,1,2,Russia,62,8/24/2020,2/28/2022
+372,bread,315,1,7,China,12,7/30/2020,9/1/2021
+373,meat products,27,0,10,China,19,3/3/2021,3/28/2022
+374,bread,2264,1,9,Canada,72,12/10/2020,2/7/2022
+375,dairy products,4393,0,5,Poland,66,11/5/2020,9/26/2021
+376,meat products,4567,0,2,Malaysia,51,9/27/2020,8/16/2021
+377,meat products,1971,0,8,Colombia,2,9/25/2020,5/22/2021
+378,bread,3805,0,8,China,8,11/7/2020,2/18/2022
+379,dairy products,1318,0,7,France,21,8/9/2020,5/22/2021
+380,dairy products,3956,0,1,China,90,2/26/2021,8/1/2021
+381,dairy products,2453,0,8,United Kingdom,69,4/19/2021,11/4/2021
+382,dairy products,1541,0,5,Poland,69,7/19/2020,6/8/2021
+383,dairy products,3577,1,8,Indonesia,26,3/30/2021,7/15/2021
+384,bread,2854,0,10,Brazil,14,1/24/2021,9/9/2021
+385,bread,2408,1,8,South Sudan,21,7/31/2020,6/18/2021
+386,meat products,144,0,9,United States,21,9/18/2020,9/2/2021
+387,meat products,2309,1,5,Indonesia,4,3/6/2021,7/27/2021
+388,bread,2350,0,7,Chile,97,4/8/2021,8/28/2021
+389,dairy products,3661,1,5,Slovenia,27,3/7/2021,10/27/2021
+390,dairy products,4803,0,1,Peru,68,10/18/2020,4/10/2022
+391,meat products,4507,0,6,Argentina,74,2/28/2021,4/7/2022
+392,meat products,1477,1,2,Czech Republic,96,2/11/2021,11/28/2021
+393,meat products,339,1,2,Indonesia,39,11/18/2020,7/20/2021
+394,dairy products,2355,1,10,Norway,11,12/19/2020,5/27/2021
+395,bread,4028,1,10,Argentina,21,1/2/2021,4/12/2022
+396,meat products,452,1,3,Czech Republic,40,11/27/2020,9/6/2021
+397,meat products,4976,1,1,China,88,8/18/2020,6/1/2021
+398,dairy products,722,1,4,Vietnam,49,9/25/2020,1/16/2022
+399,dairy products,2689,0,1,China,74,9/10/2020,2/16/2022
+400,meat products,2701,1,7,Tanzania,52,8/26/2020,12/19/2021
+401,bread,2368,1,2,Ireland,3,7/14/2020,3/1/2022
+402,dairy products,2963,0,4,China,91,3/20/2021,9/4/2021
+403,dairy products,2835,0,7,Finland,42,4/20/2021,2/28/2022
+404,meat products,4807,0,6,Argentina,90,1/27/2021,6/6/2021
+405,dairy products,4661,1,5,Guatemala,38,9/22/2020,11/21/2021
+406,dairy products,198,1,8,Brazil,73,6/8/2020,3/5/2022
+407,dairy products,2904,0,1,Brazil,96,2/3/2021,3/14/2022
+408,dairy products,2808,1,6,Czech Republic,26,7/26/2020,4/12/2022
+409,bread,3294,1,1,Philippines,18,4/27/2020,7/2/2021
+410,bread,4855,1,1,Mongolia,63,6/5/2020,7/15/2021
+411,dairy products,2961,1,10,Guatemala,83,6/28/2020,10/8/2021
+412,bread,4206,1,2,China,15,7/19/2020,10/18/2021
+413,dairy products,1320,1,3,China,35,9/12/2020,3/19/2022
+414,bread,749,0,10,Brazil,51,8/2/2020,6/5/2021
+415,bread,975,1,2,Nigeria,97,4/27/2020,6/10/2021
+416,dairy products,239,1,1,Japan,97,8/13/2020,11/18/2021
+417,meat products,4807,1,7,Sierra Leone,20,12/3/2020,6/23/2021
+418,meat products,3223,0,8,Peru,58,12/6/2020,2/19/2022
+419,bread,3913,1,3,South Africa,9,4/18/2021,4/10/2022
+420,dairy products,2784,1,5,China,49,8/19/2020,1/11/2022
+421,dairy products,3985,1,2,Moldova,68,11/9/2020,6/17/2021
+422,bread,2157,1,3,Panama,1,5/9/2020,1/9/2022
+423,dairy products,4932,0,3,China,46,7/23/2020,7/18/2021
+424,bread,4469,1,5,France,55,9/21/2020,5/10/2021
+425,dairy products,3042,1,5,United States,38,3/6/2021,12/18/2021
+426,bread,1050,1,7,Mexico,4,3/8/2021,1/13/2022
+427,dairy products,1236,1,8,Czech Republic,11,9/4/2020,1/30/2022
+428,bread,3882,0,2,Brazil,12,9/8/2020,5/30/2021
+429,bread,2396,0,5,South Africa,52,9/26/2020,3/27/2022
+430,meat products,1974,1,3,Peru,79,3/16/2021,5/2/2021
+431,meat products,2488,0,1,Costa Rica,51,6/19/2020,6/11/2021
+432,dairy products,1578,1,4,Sweden,91,10/17/2020,2/25/2022
+433,dairy products,2413,0,5,Tanzania,49,4/22/2021,7/4/2021
+434,dairy products,3855,1,10,Canada,88,5/17/2020,8/29/2021
+435,meat products,3673,1,9,Indonesia,36,4/28/2020,11/17/2021
+436,meat products,4164,0,7,China,27,12/16/2020,5/8/2021
+437,meat products,4660,0,6,Indonesia,13,12/31/2020,7/15/2021
+438,dairy products,2267,0,7,Philippines,54,10/29/2020,3/11/2022
+439,meat products,3239,1,8,Norway,5,8/18/2020,7/11/2021
+440,dairy products,1490,0,7,Norway,95,12/16/2020,10/8/2021
+441,bread,1780,0,8,Philippines,36,2/10/2021,7/8/2021
+442,meat products,2383,0,5,China,83,4/12/2021,5/12/2021
+443,meat products,3521,1,8,China,13,1/12/2021,1/11/2022
+444,meat products,3529,1,7,Indonesia,42,2/3/2021,5/12/2021
+445,bread,190,0,1,Nigeria,81,11/22/2020,3/15/2022
+446,dairy products,3242,0,7,Mongolia,76,8/30/2020,5/12/2021
+447,dairy products,3061,0,10,South Africa,44,6/21/2020,4/6/2022
+448,dairy products,2245,1,2,Brazil,26,1/20/2021,9/16/2021
+449,dairy products,3413,1,7,China,51,3/14/2021,5/22/2021
+450,dairy products,4149,0,10,Indonesia,38,12/3/2020,6/11/2021
+451,dairy products,2987,1,1,Brazil,19,6/12/2020,8/19/2021
+452,bread,2246,0,1,Russia,28,3/22/2021,10/11/2021
+453,dairy products,2137,1,5,Tunisia,61,10/31/2020,5/5/2021
+454,dairy products,3508,0,7,China,60,10/18/2020,7/7/2021
+455,bread,194,0,1,China,78,10/17/2020,12/6/2021
+456,dairy products,2534,0,6,China,29,12/13/2020,9/9/2021
+457,dairy products,1989,1,5,Mongolia,16,1/25/2021,6/27/2021
+458,dairy products,4015,0,7,Russia,61,4/1/2021,12/12/2021
+459,meat products,1387,1,7,Iran,33,1/4/2021,9/1/2021
+460,bread,4394,0,2,Uruguay,1,5/4/2020,4/29/2021
+461,meat products,2273,0,7,Canada,57,10/22/2020,11/13/2021
+462,bread,2918,1,7,Canada,21,11/11/2020,3/4/2022
+463,meat products,158,1,4,China,79,8/9/2020,10/1/2021
+464,bread,4587,1,7,China,2,4/26/2020,7/22/2021
+465,bread,4521,0,8,Japan,29,12/12/2020,6/9/2021
+466,dairy products,1785,0,5,Indonesia,68,2/25/2021,9/3/2021
+467,dairy products,3752,1,2,Russia,8,6/4/2020,9/4/2021
+468,meat products,3916,1,6,Slovenia,18,9/16/2020,7/11/2021
+469,bread,4024,1,6,Indonesia,5,5/29/2020,8/12/2021
+470,dairy products,2522,0,7,Indonesia,74,11/1/2020,9/29/2021
+471,bread,1998,1,9,Brazil,36,8/5/2020,12/21/2021
+472,bread,1113,1,10,China,16,2/21/2021,6/15/2021
+473,dairy products,4304,0,7,Canada,23,9/7/2020,8/18/2021
+474,meat products,3128,1,5,Russia,56,3/10/2021,1/25/2022
+475,meat products,695,1,1,Russia,75,5/8/2020,2/26/2022
+476,meat products,3000,0,5,Indonesia,16,9/15/2020,10/11/2021
+477,bread,559,0,5,China,40,9/11/2020,1/16/2022
+478,bread,4309,0,7,China,64,8/28/2020,8/10/2021
+479,meat products,4032,1,8,United States,66,10/9/2020,11/23/2021
+480,meat products,668,0,1,United States,44,2/2/2021,10/4/2021
+481,meat products,2731,0,2,Ghana,19,7/31/2020,11/16/2021
+482,meat products,269,0,10,United States,79,5/1/2020,3/16/2022
+483,dairy products,1096,1,9,Philippines,70,9/23/2020,5/10/2021
+484,dairy products,2939,1,9,Sweden,53,5/31/2020,12/28/2021
+485,bread,796,1,7,France,72,3/1/2021,4/7/2022
+486,bread,2059,1,4,Russia,42,1/31/2021,7/4/2021
+487,meat products,3609,0,2,Macedonia,6,1/15/2021,4/29/2021
+488,meat products,3633,1,1,Thailand,19,6/23/2020,5/21/2021
+489,bread,4160,1,3,Panama,81,10/31/2020,9/8/2021
+490,dairy products,3843,1,8,China,57,1/19/2021,7/29/2021
+491,dairy products,2571,1,3,Kazakhstan,41,8/13/2020,2/21/2022
+492,meat products,4948,1,5,Azerbaijan,56,9/17/2020,8/12/2021
+493,dairy products,3379,1,8,Bosnia and Herzegovina,57,3/22/2021,5/20/2021
+494,meat products,310,0,3,China,85,7/3/2020,11/20/2021
+495,meat products,693,0,5,Indonesia,95,5/13/2020,11/11/2021
+496,meat products,4385,1,3,Greece,41,12/2/2020,9/13/2021
+497,bread,552,1,10,China,47,10/21/2020,4/22/2022
+498,dairy products,2696,0,2,Laos,57,10/22/2020,11/7/2021
+499,bread,4556,1,10,Micronesia,54,5/23/2020,10/9/2021
+500,bread,1005,0,9,Japan,93,6/10/2020,6/27/2021
+501,meat products,1373,0,4,Chile,31,3/22/2021,1/23/2022
+502,bread,1180,0,6,China,19,9/7/2020,3/8/2022
+503,dairy products,3353,1,4,Poland,85,8/11/2020,1/11/2022
+504,bread,835,1,2,Portugal,7,9/1/2020,8/22/2021
+505,meat products,482,1,5,South Korea,12,6/7/2020,2/26/2022
+506,bread,2639,1,2,Argentina,52,9/28/2020,3/11/2022
+507,bread,3615,0,1,Sweden,2,12/14/2020,7/12/2021
+508,meat products,3952,0,8,Portugal,23,1/10/2021,9/22/2021
+509,dairy products,4402,0,10,Argentina,77,6/13/2020,12/25/2021
+510,dairy products,1954,1,7,France,15,2/12/2021,10/18/2021
+511,dairy products,3465,1,5,Russia,73,1/26/2021,9/10/2021
+512,bread,361,0,4,Poland,89,12/16/2020,1/27/2022
+513,meat products,3521,0,2,Sweden,24,1/11/2021,9/6/2021
+514,meat products,2454,1,3,China,45,1/13/2021,8/19/2021
+515,meat products,1193,0,5,Russia,86,9/13/2020,12/21/2021
+516,bread,18,1,10,China,27,2/11/2021,12/3/2021
+517,dairy products,1658,0,7,Argentina,97,5/10/2020,11/2/2021
+518,dairy products,1195,1,6,China,73,11/1/2020,10/31/2021
+519,bread,1341,0,10,China,69,1/3/2021,7/9/2021
+520,bread,4478,0,5,United States,25,10/21/2020,12/9/2021
+521,meat products,4248,0,7,Japan,38,3/18/2021,3/19/2022
+522,bread,354,0,1,Sierra Leone,76,8/28/2020,8/14/2021
+523,dairy products,2840,0,5,Ukraine,34,10/28/2020,6/20/2021
+524,bread,1036,1,10,Brazil,95,1/26/2021,12/23/2021
+525,dairy products,2844,1,10,Indonesia,66,7/19/2020,10/29/2021
+526,bread,3551,0,3,China,52,12/7/2020,3/22/2022
+527,meat products,3070,1,3,Nigeria,34,6/25/2020,8/13/2021
+528,meat products,2628,0,10,Germany,40,8/8/2020,5/3/2021
+529,dairy products,1118,1,8,Peru,45,7/4/2020,9/12/2021
+530,meat products,4437,1,7,Philippines,8,7/4/2020,12/28/2021
+531,meat products,2673,1,7,China,11,10/9/2020,10/18/2021
+532,dairy products,4525,1,5,Philippines,71,6/22/2020,3/15/2022
+533,meat products,3085,0,10,Poland,29,8/27/2020,4/17/2022
+534,bread,711,0,7,China,92,1/25/2021,10/25/2021
+535,dairy products,4842,0,9,China,31,3/2/2021,1/10/2022
+536,meat products,998,0,9,Poland,63,7/18/2020,2/8/2022
+537,dairy products,3768,1,10,Poland,40,12/17/2020,7/17/2021
+538,dairy products,4199,1,1,United States,57,5/4/2020,3/15/2022
+539,dairy products,2645,1,6,Canada,60,8/20/2020,10/21/2021
+540,dairy products,4812,0,6,China,39,3/1/2021,3/2/2022
+541,bread,3712,0,8,Japan,36,5/2/2020,8/15/2021
+542,meat products,2021,0,4,France,74,6/30/2020,5/28/2021
+543,dairy products,200,0,2,Peru,82,6/16/2020,6/23/2021
+544,bread,3110,1,10,Indonesia,55,11/10/2020,10/1/2021
+545,bread,1357,1,3,Peru,23,1/24/2021,3/13/2022
+546,meat products,656,0,6,Philippines,85,11/15/2020,1/12/2022
+547,bread,958,1,8,China,86,6/20/2020,8/21/2021
+548,dairy products,4917,1,4,Russia,80,5/5/2020,2/8/2022
+549,dairy products,3781,0,6,Finland,41,3/22/2021,5/26/2021
+550,dairy products,2034,0,2,Czech Republic,78,10/20/2020,11/11/2021
+551,bread,3380,1,9,Greece,45,5/9/2020,1/7/2022
+552,dairy products,4368,1,7,Myanmar,62,10/26/2020,2/9/2022
+553,dairy products,3255,1,5,Greece,10,12/15/2020,12/24/2021
+554,meat products,1829,0,7,France,72,11/12/2020,12/15/2021
+555,dairy products,1220,0,2,Sweden,94,12/19/2020,3/8/2022
+556,dairy products,64,0,9,Mexico,13,7/7/2020,8/23/2021
+557,meat products,1672,1,9,Russia,36,4/18/2021,6/7/2021
+558,bread,1737,0,3,Thailand,34,12/2/2020,4/3/2022
+559,bread,3488,1,4,Indonesia,91,6/16/2020,2/27/2022
+560,bread,1851,0,10,Israel,87,6/24/2020,8/27/2021
+561,meat products,3888,1,2,China,8,6/12/2020,3/21/2022
+562,meat products,664,0,1,Sweden,15,12/29/2020,5/28/2021
+563,meat products,2462,1,5,Indonesia,21,5/30/2020,9/9/2021
+564,meat products,4247,0,10,Russia,44,7/19/2020,8/24/2021
+565,meat products,4049,0,5,Poland,66,10/29/2020,12/1/2021
+566,bread,2316,1,6,Indonesia,73,12/6/2020,4/8/2022
+567,bread,1488,1,9,Indonesia,65,12/10/2020,1/29/2022
+568,bread,1508,1,2,Tajikistan,3,2/3/2021,12/21/2021
+569,dairy products,3903,1,5,Sweden,70,2/21/2021,1/29/2022
+570,bread,2365,1,4,Chile,5,1/29/2021,11/1/2021
+571,meat products,1668,1,2,France,26,7/29/2020,3/14/2022
+572,bread,2508,1,10,Philippines,20,4/20/2021,4/26/2021
+573,bread,4461,0,10,Sweden,71,8/28/2020,6/28/2021
+574,bread,3239,1,1,United States,42,2/27/2021,8/22/2021
+575,dairy products,2293,1,10,United States,92,4/2/2021,6/10/2021
+576,meat products,2611,1,7,Sweden,93,2/21/2021,4/7/2022
+577,bread,2314,0,6,Kazakhstan,57,3/10/2021,4/16/2022
+578,bread,4695,0,4,Indonesia,72,6/28/2020,7/9/2021
+579,dairy products,3927,1,9,Indonesia,29,11/14/2020,9/30/2021
+580,meat products,1401,0,8,Guatemala,21,8/23/2020,10/8/2021
+581,dairy products,3335,1,6,Vietnam,47,6/17/2020,10/19/2021
+582,dairy products,62,0,2,Netherlands,10,12/4/2020,4/2/2022
+583,dairy products,1691,0,2,Vietnam,91,5/17/2020,10/11/2021
+584,bread,3883,1,6,Democratic Republic of the Congo,86,4/18/2021,10/27/2021
+585,bread,1270,1,10,China,72,6/27/2020,10/18/2021
+586,meat products,3947,0,10,Ireland,25,7/17/2020,11/8/2021
+587,dairy products,792,1,9,China,39,10/5/2020,7/13/2021
+588,bread,802,1,10,Serbia,32,4/1/2021,9/29/2021
+589,meat products,1746,0,10,China,81,12/7/2020,10/25/2021
+590,dairy products,1632,0,6,Iraq,68,8/31/2020,9/22/2021
+591,meat products,410,0,10,Mongolia,1,4/14/2021,7/12/2021
+592,meat products,176,1,4,Poland,15,11/19/2020,11/26/2021
+593,dairy products,2481,0,5,Czech Republic,6,5/18/2020,11/3/2021
+594,bread,2276,1,10,Russia,23,9/5/2020,10/29/2021
+595,meat products,1826,0,2,Poland,90,2/19/2021,3/24/2022
+596,meat products,4994,0,2,Brazil,80,9/7/2020,6/28/2021
+597,bread,3389,1,4,Canada,31,2/1/2021,1/27/2022
+598,dairy products,1670,0,9,China,24,10/2/2020,11/11/2021
+599,bread,2526,1,6,France,47,6/5/2020,1/7/2022
+600,dairy products,4088,0,3,Serbia,53,2/19/2021,5/20/2021
+601,dairy products,1976,0,2,Indonesia,37,6/26/2020,4/21/2022
+602,bread,3467,0,8,China,42,7/9/2020,6/14/2021
+603,bread,4929,1,9,Guatemala,80,11/11/2020,8/12/2021
+604,meat products,3874,0,4,Albania,77,10/13/2020,1/17/2022
+605,meat products,218,0,3,China,56,1/28/2021,9/30/2021
+606,meat products,4983,0,1,China,84,11/26/2020,4/27/2021
+607,meat products,1054,0,1,Cyprus,14,3/19/2021,2/7/2022
+608,dairy products,1762,0,10,Brazil,12,9/18/2020,11/27/2021
+609,meat products,3135,0,1,China,46,4/22/2021,9/9/2021
+610,meat products,3715,0,7,France,88,12/27/2020,12/26/2021
+611,bread,4985,0,4,China,10,2/11/2021,12/27/2021
+612,meat products,3763,0,9,Mongolia,95,9/16/2020,11/15/2021
+613,bread,4531,1,3,China,11,7/9/2020,7/17/2021
+614,dairy products,3510,0,5,China,66,4/20/2021,4/3/2022
+615,meat products,3696,0,2,China,27,4/11/2021,10/25/2021
+616,dairy products,4075,0,2,China,98,11/9/2020,2/23/2022
+617,meat products,207,1,3,China,16,10/14/2020,1/11/2022
+618,meat products,4593,0,10,Brazil,19,3/26/2021,2/1/2022
+619,dairy products,2039,1,2,United States,5,1/4/2021,4/4/2022
+620,bread,1107,0,3,Afghanistan,100,10/21/2020,7/28/2021
+621,bread,3669,0,5,Argentina,57,11/5/2020,3/25/2022
+622,dairy products,2292,1,6,Malaysia,70,5/8/2020,4/20/2022
+623,dairy products,1362,1,1,China,20,6/16/2020,11/12/2021
+624,bread,4226,1,2,China,77,7/19/2020,7/7/2021
+625,bread,3432,0,5,Brazil,23,8/8/2020,10/17/2021
+626,dairy products,2879,1,6,Norway,77,12/23/2020,1/22/2022
+627,dairy products,755,1,10,China,56,9/5/2020,11/11/2021
+628,meat products,2049,0,2,China,59,9/8/2020,3/18/2022
+629,dairy products,1657,1,7,Switzerland,97,11/4/2020,1/1/2022
+630,bread,2523,0,10,South Africa,45,9/3/2020,7/8/2021
+631,bread,522,1,9,Macedonia,39,1/2/2021,5/26/2021
+632,meat products,4520,1,7,Croatia,34,5/30/2020,12/19/2021
+633,dairy products,1813,1,9,Portugal,61,7/16/2020,12/3/2021
+634,bread,2401,1,5,Portugal,74,10/9/2020,7/28/2021
+635,meat products,4779,1,4,Ukraine,15,12/5/2020,6/26/2021
+636,dairy products,734,0,6,Indonesia,29,9/14/2020,1/12/2022
+637,dairy products,794,0,5,China,15,8/12/2020,8/6/2021
+638,meat products,3163,1,2,Malaysia,3,12/30/2020,6/9/2021
+639,bread,2309,0,5,China,34,11/21/2020,12/22/2021
+640,meat products,1316,1,5,China,82,11/6/2020,11/6/2021
+641,meat products,4072,1,8,Indonesia,2,3/22/2021,9/3/2021
+642,dairy products,3449,0,3,Brazil,70,11/29/2020,2/19/2022
+643,meat products,977,1,5,China,57,3/7/2021,3/26/2022
+644,meat products,4674,1,7,Greece,63,12/10/2020,5/15/2021
+645,meat products,2403,1,6,Russia,15,12/9/2020,5/21/2021
+646,meat products,2449,0,6,China,1,10/30/2020,4/11/2022
+647,dairy products,1672,1,10,Sweden,26,5/13/2020,1/14/2022
+648,meat products,3734,0,4,Vietnam,72,10/22/2020,6/21/2021
+649,bread,3238,1,10,China,63,12/13/2020,1/15/2022
+650,dairy products,4641,1,1,Poland,53,5/15/2020,10/28/2021
+651,meat products,507,1,1,China,89,2/10/2021,12/1/2021
+652,meat products,4144,0,10,Argentina,42,5/25/2020,5/3/2021
+653,dairy products,60,0,10,China,24,6/23/2020,8/27/2021
+654,dairy products,4215,0,4,Philippines,75,4/1/2021,5/9/2021
+655,dairy products,2758,1,8,Czech Republic,65,3/23/2021,8/20/2021
+656,bread,3680,1,9,Syria,100,5/27/2020,1/27/2022
+657,dairy products,4915,1,6,China,96,6/4/2020,8/11/2021
+658,bread,3940,1,6,Sierra Leone,91,7/20/2020,12/25/2021
+659,dairy products,2733,0,1,Brazil,63,5/30/2020,3/16/2022
+660,dairy products,4872,1,2,Indonesia,40,9/12/2020,6/30/2021
+661,bread,1515,1,9,Sweden,97,2/7/2021,3/25/2022
+662,dairy products,364,1,3,China,22,4/30/2020,2/16/2022
+663,meat products,1939,0,6,China,6,5/1/2020,7/4/2021
+664,bread,2701,1,5,Russia,40,8/27/2020,7/20/2021
+665,bread,1926,0,2,Sweden,5,1/6/2021,8/28/2021
+666,bread,4267,1,5,China,35,11/12/2020,2/20/2022
+667,dairy products,3965,0,7,Sudan,17,2/19/2021,1/13/2022
+668,meat products,4597,0,2,Malaysia,66,10/9/2020,12/7/2021
+669,meat products,1957,0,4,Indonesia,18,5/29/2020,10/31/2021
+670,dairy products,425,0,8,Albania,6,9/4/2020,8/2/2021
+671,dairy products,517,0,10,Argentina,40,4/24/2020,9/1/2021
+672,dairy products,300,0,3,Russia,40,3/7/2021,4/1/2022
+673,meat products,2725,0,2,Netherlands,48,5/4/2020,5/14/2021
+674,dairy products,2252,1,4,China,6,6/1/2020,11/12/2021
+675,dairy products,3507,0,8,Ethiopia,68,11/21/2020,10/17/2021
+676,meat products,1523,0,7,China,5,6/29/2020,2/15/2022
+677,meat products,828,0,10,Colombia,20,9/16/2020,5/15/2021
+678,dairy products,1142,0,10,Colombia,44,9/11/2020,7/24/2021
+679,dairy products,2162,1,3,Ethiopia,72,1/29/2021,3/8/2022
+680,dairy products,77,1,6,China,68,1/26/2021,1/3/2022
+681,bread,1758,0,3,Finland,72,1/26/2021,11/29/2021
+682,dairy products,536,0,8,Thailand,1,5/18/2020,6/17/2021
+683,meat products,4271,0,1,Indonesia,76,7/20/2020,8/9/2021
+684,meat products,4917,1,8,Indonesia,53,4/8/2021,3/11/2022
+685,bread,1290,0,5,Japan,26,12/19/2020,12/30/2021
+686,dairy products,700,0,2,China,47,8/15/2020,12/25/2021
+687,dairy products,3693,0,4,Iran,64,1/30/2021,7/26/2021
+688,meat products,2635,0,1,Honduras,14,10/14/2020,12/10/2021
+689,meat products,4258,1,3,Puerto Rico,44,9/8/2020,7/22/2021
+690,dairy products,1115,0,8,Egypt,41,5/19/2020,9/21/2021
+691,meat products,927,1,6,Slovenia,34,10/26/2020,6/11/2021
+692,dairy products,4552,1,4,Nicaragua,6,10/1/2020,11/22/2021
+693,dairy products,454,1,5,China,39,5/2/2020,1/21/2022
+694,dairy products,4947,0,2,Thailand,71,2/19/2021,7/31/2021
+695,bread,3994,1,10,China,11,10/12/2020,4/27/2021
+696,bread,3275,0,10,Indonesia,66,11/13/2020,6/29/2021
+697,bread,3592,1,2,Brazil,28,8/31/2020,8/17/2021
+698,bread,3097,0,3,Iran,24,11/4/2020,11/8/2021
+699,bread,4830,1,6,Indonesia,65,7/23/2020,12/19/2021
+700,dairy products,1772,1,10,China,45,4/23/2021,7/20/2021
+701,meat products,2871,1,4,Indonesia,86,10/21/2020,7/14/2021
+702,dairy products,1847,0,9,China,58,8/9/2020,1/14/2022
+703,bread,3830,1,8,Indonesia,7,2/25/2021,10/12/2021
+704,bread,4633,1,5,China,88,7/14/2020,6/2/2021
+705,bread,4621,1,2,United States,69,5/9/2020,9/30/2021
+706,meat products,3542,0,4,Portugal,88,4/21/2021,12/22/2021
+707,bread,4688,0,4,Thailand,48,4/23/2021,7/28/2021
+708,bread,1705,0,9,Belarus,13,12/7/2020,6/16/2021
+709,meat products,197,0,2,Argentina,31,10/18/2020,3/18/2022
+710,bread,1783,0,9,China,76,7/15/2020,6/6/2021
+711,dairy products,4094,1,10,Poland,56,12/30/2020,4/27/2021
+712,bread,274,0,9,Argentina,100,10/5/2020,10/14/2021
+713,bread,1075,0,9,France,32,12/26/2020,8/25/2021
+714,meat products,2338,0,10,China,7,2/14/2021,3/3/2022
+715,bread,3017,0,3,Vietnam,75,11/18/2020,10/23/2021
+716,meat products,2873,1,10,France,89,9/5/2020,1/25/2022
+717,meat products,689,0,3,China,60,3/24/2021,9/2/2021
+718,bread,459,1,5,Brazil,90,2/14/2021,3/17/2022
+719,dairy products,4783,1,8,Indonesia,95,4/22/2021,6/18/2021
+720,dairy products,881,1,6,Indonesia,63,11/12/2020,5/10/2021
+721,bread,3706,0,10,Venezuela,16,12/15/2020,9/20/2021
+722,bread,2053,0,5,France,52,5/19/2020,7/27/2021
+723,bread,3552,0,5,Indonesia,60,4/8/2021,12/20/2021
+724,dairy products,4943,0,2,United States,88,12/22/2020,6/13/2021
+725,meat products,2050,1,8,Czech Republic,92,5/28/2020,4/30/2021
+726,meat products,335,0,9,China,7,4/13/2021,4/17/2022
+727,bread,3349,0,4,France,67,2/25/2021,12/31/2021
+728,meat products,1676,1,9,China,5,11/22/2020,1/1/2022
+729,meat products,4412,1,4,Canada,97,6/25/2020,1/26/2022
+730,meat products,154,1,6,Argentina,47,5/13/2020,3/25/2022
+731,meat products,3203,0,3,Russia,9,4/29/2020,7/26/2021
+732,dairy products,2411,1,3,Indonesia,70,6/19/2020,12/2/2021
+733,meat products,1495,0,4,Indonesia,28,3/6/2021,10/10/2021
+734,bread,1081,0,6,China,46,5/3/2020,3/8/2022
+735,meat products,245,0,3,Aland Islands,54,11/2/2020,9/14/2021
+736,bread,489,1,4,Indonesia,30,5/29/2020,8/3/2021
+737,dairy products,375,0,9,Central African Republic,83,2/22/2021,4/12/2022
+738,dairy products,856,0,10,Micronesia,15,12/23/2020,9/5/2021
+739,bread,4725,0,2,Georgia,92,6/16/2020,8/22/2021
+740,meat products,2673,0,4,Venezuela,37,11/5/2020,9/10/2021
+741,bread,2042,0,4,China,29,8/29/2020,10/9/2021
+742,bread,2750,0,7,Indonesia,13,6/21/2020,8/15/2021
+743,bread,4748,0,5,China,14,10/23/2020,6/18/2021
+744,meat products,2975,0,9,Indonesia,19,5/21/2020,3/7/2022
+745,meat products,700,0,3,United States,74,10/9/2020,7/11/2021
+746,dairy products,1758,0,8,Czech Republic,18,4/7/2021,11/20/2021
+747,bread,3594,0,1,Haiti,100,3/26/2021,1/22/2022
+748,dairy products,2853,1,1,Sweden,68,11/30/2020,6/1/2021
+749,dairy products,1172,1,5,Japan,59,5/30/2020,10/11/2021
+750,bread,613,1,2,Paraguay,78,11/1/2020,3/14/2022
+751,meat products,2618,0,7,Yemen,3,1/19/2021,7/3/2021
+752,meat products,3707,0,1,Venezuela,18,9/20/2020,12/16/2021
+753,bread,4768,1,8,Mexico,48,9/11/2020,9/2/2021
+754,meat products,1599,0,5,Syria,90,7/24/2020,12/4/2021
+755,meat products,1914,1,1,Philippines,5,2/27/2021,10/11/2021
+756,meat products,3655,0,6,Colombia,71,2/7/2021,6/18/2021
+757,dairy products,2090,0,3,Italy,80,1/31/2021,12/17/2021
+758,bread,114,1,5,Ukraine,95,10/2/2020,10/31/2021
+759,dairy products,3782,1,10,China,15,2/8/2021,4/15/2022
+760,meat products,3079,0,1,Yemen,8,5/7/2020,9/12/2021
+761,dairy products,1759,0,1,Russia,56,5/15/2020,2/23/2022
+762,meat products,1963,0,1,Democratic Republic of the Congo,33,12/28/2020,3/2/2022
+763,dairy products,3962,0,4,China,89,4/28/2020,1/24/2022
+764,meat products,1931,0,5,Thailand,87,10/12/2020,3/31/2022
+765,meat products,157,1,4,China,34,10/3/2020,11/28/2021
+766,dairy products,2683,1,3,United States,51,10/31/2020,9/6/2021
+767,meat products,3920,0,3,New Zealand,81,10/10/2020,1/3/2022
+768,dairy products,3431,0,2,Philippines,8,10/9/2020,5/22/2021
+769,bread,3961,0,4,Portugal,22,11/5/2020,7/2/2021
+770,meat products,315,0,8,China,61,9/18/2020,12/10/2021
+771,meat products,3184,1,2,Czech Republic,46,7/12/2020,10/13/2021
+772,dairy products,2382,0,6,Portugal,82,11/25/2020,5/3/2021
+773,dairy products,262,1,7,Albania,14,7/10/2020,3/16/2022
+774,meat products,835,1,6,South Africa,60,7/23/2020,10/20/2021
+775,bread,570,1,1,Indonesia,2,11/9/2020,7/24/2021
+776,bread,4541,0,10,Indonesia,75,9/20/2020,5/10/2021
+777,bread,2515,1,10,Greece,40,3/18/2021,9/3/2021
+778,bread,1055,1,7,Bosnia and Herzegovina,34,5/17/2020,11/8/2021
+779,bread,2595,0,9,Norway,69,3/13/2021,11/18/2021
+780,dairy products,434,0,2,Russia,62,10/5/2020,2/6/2022
+781,bread,1489,1,4,Philippines,61,2/28/2021,1/10/2022
+782,dairy products,3940,1,10,Colombia,99,7/31/2020,6/13/2021
+783,bread,3344,0,1,Madagascar,48,5/15/2020,1/25/2022
+784,meat products,1066,0,1,Greece,17,4/1/2021,6/21/2021
+785,meat products,115,0,2,Indonesia,32,10/31/2020,6/12/2021
+786,meat products,820,0,8,Lithuania,5,2/21/2021,11/25/2021
+787,bread,2479,1,7,Mexico,45,7/27/2020,1/1/2022
+788,meat products,1046,1,6,Russia,80,2/18/2021,5/12/2021
+789,meat products,4797,1,1,China,27,2/8/2021,3/27/2022
+790,meat products,505,1,9,China,31,11/14/2020,4/13/2022
+791,meat products,4048,1,2,United States,37,11/9/2020,4/24/2021
+792,bread,4206,0,7,China,54,3/10/2021,10/16/2021
+793,meat products,2600,1,3,China,12,6/20/2020,9/12/2021
+794,dairy products,4644,1,10,Indonesia,67,9/17/2020,11/21/2021
+795,meat products,2713,1,1,Philippines,68,11/28/2020,1/13/2022
+796,dairy products,20,0,10,Japan,69,11/25/2020,9/18/2021
+797,dairy products,3751,0,5,France,15,10/5/2020,3/11/2022
+798,dairy products,1806,0,10,Brazil,28,6/22/2020,3/5/2022
+799,dairy products,1728,0,9,China,41,9/10/2020,6/24/2021
+800,bread,504,0,4,Poland,21,4/17/2021,4/26/2021
+801,meat products,3605,0,5,Slovenia,46,7/18/2020,2/10/2022
+802,meat products,2838,0,2,China,59,11/25/2020,10/25/2021
+803,meat products,472,1,10,Indonesia,71,6/26/2020,2/22/2022
+804,dairy products,3883,1,2,Portugal,81,8/11/2020,9/21/2021
+805,dairy products,3422,1,1,Philippines,32,6/20/2020,7/29/2021
+806,bread,4207,1,4,China,13,8/20/2020,12/11/2021
+807,bread,3528,0,5,China,93,5/20/2020,8/8/2021
+808,meat products,1551,1,8,Tunisia,16,7/12/2020,11/17/2021
+809,bread,3525,1,8,Indonesia,75,5/19/2020,10/24/2021
+810,bread,595,1,5,Armenia,45,9/26/2020,2/6/2022
+811,dairy products,3941,1,8,China,58,6/28/2020,6/8/2021
+812,meat products,727,0,9,Indonesia,70,9/1/2020,12/12/2021
+813,dairy products,2624,1,10,Portugal,23,1/22/2021,3/17/2022
+814,bread,4105,1,7,Madagascar,62,2/9/2021,5/7/2021
+815,meat products,880,0,9,Thailand,37,2/15/2021,11/22/2021
+816,dairy products,3633,1,2,China,69,4/25/2020,5/10/2021
+817,bread,3691,0,1,China,21,5/24/2020,4/25/2021
+818,meat products,744,1,4,China,48,10/3/2020,10/22/2021
+819,bread,3647,0,9,Kuwait,84,3/24/2021,8/4/2021
+820,dairy products,1057,0,4,United Kingdom,27,8/22/2020,5/26/2021
+821,dairy products,820,0,9,Russia,55,3/29/2021,6/29/2021
+822,meat products,4068,0,1,Portugal,88,8/30/2020,12/16/2021
+823,bread,137,1,8,Serbia,43,1/29/2021,8/28/2021
+824,bread,4471,0,7,Pakistan,87,1/12/2021,5/27/2021
+825,bread,4886,0,2,Nigeria,47,11/13/2020,11/19/2021
+826,bread,4858,1,8,Indonesia,22,5/25/2020,12/29/2021
+827,dairy products,2231,0,8,Brazil,49,8/17/2020,2/14/2022
+828,meat products,3950,0,9,Brazil,11,12/23/2020,6/9/2021
+829,dairy products,3393,0,8,Morocco,28,5/26/2020,10/20/2021
+830,meat products,2818,1,3,Indonesia,38,8/5/2020,7/13/2021
+831,dairy products,2402,0,8,Indonesia,56,12/9/2020,4/20/2022
+832,meat products,822,0,2,Norway,48,7/9/2020,12/17/2021
+833,bread,730,0,4,United States,74,11/3/2020,3/22/2022
+834,meat products,4051,1,5,Sweden,93,8/28/2020,3/8/2022
+835,meat products,284,1,1,Russia,63,9/18/2020,4/24/2021
+836,dairy products,4497,0,5,Tanzania,35,3/7/2021,12/11/2021
+837,dairy products,3061,1,8,Russia,17,9/10/2020,8/28/2021
+838,dairy products,2895,1,1,Thailand,9,11/12/2020,11/1/2021
+839,dairy products,819,0,8,China,77,9/11/2020,5/17/2021
+840,dairy products,2770,0,7,Bangladesh,14,4/14/2021,5/1/2021
+841,bread,812,0,6,Colombia,100,1/7/2021,3/9/2022
+842,bread,357,1,6,China,41,11/13/2020,6/26/2021
+843,bread,4646,0,6,Ukraine,92,12/19/2020,10/24/2021
+844,bread,3610,0,10,Bhutan,85,2/7/2021,4/3/2022
+845,bread,2501,1,10,Russia,75,7/26/2020,2/26/2022
+846,dairy products,4335,1,1,Germany,50,12/13/2020,7/6/2021
+847,dairy products,2021,0,9,Moldova,20,11/4/2020,8/1/2021
+848,bread,1300,1,4,Macedonia,25,4/17/2021,6/10/2021
+849,meat products,863,0,9,Tanzania,49,2/7/2021,3/31/2022
+850,dairy products,2436,1,2,Russia,6,10/13/2020,6/22/2021
+851,bread,631,1,4,South Africa,29,5/7/2020,3/14/2022
+852,dairy products,3143,0,3,Russia,41,3/22/2021,7/8/2021
+853,meat products,4389,1,4,China,75,7/15/2020,4/9/2022
+854,meat products,3410,0,4,Norway,29,5/13/2020,6/8/2021
+855,dairy products,2936,1,4,China,22,1/22/2021,11/24/2021
+856,meat products,3341,0,9,Philippines,21,4/22/2021,3/12/2022
+857,bread,3435,1,3,Sweden,44,7/21/2020,12/9/2021
+858,dairy products,3639,0,7,Portugal,3,11/11/2020,9/23/2021
+859,bread,4457,1,1,Bulgaria,7,7/18/2020,1/28/2022
+860,bread,4259,0,8,Indonesia,3,6/24/2020,1/14/2022
+861,dairy products,4291,0,8,China,32,12/25/2020,6/5/2021
+862,meat products,4119,1,6,Peru,12,9/5/2020,9/12/2021
+863,bread,3340,0,10,United States,12,1/19/2021,4/1/2022
+864,dairy products,2032,1,6,Gabon,57,7/22/2020,4/26/2021
+865,meat products,1216,0,8,Brazil,90,5/9/2020,10/9/2021
+866,meat products,2394,0,6,Croatia,85,9/14/2020,2/20/2022
+867,bread,1635,1,4,Indonesia,45,8/9/2020,10/18/2021
+868,bread,1318,1,2,Myanmar,94,2/15/2021,4/15/2022
+869,meat products,4559,0,4,China,7,4/25/2020,9/11/2021
+870,dairy products,4409,0,6,Brazil,48,3/21/2021,8/16/2021
+871,dairy products,1092,1,2,Azerbaijan,95,11/25/2020,7/26/2021
+872,dairy products,4332,1,2,China,42,11/18/2020,7/4/2021
+873,dairy products,585,0,3,United States,96,4/26/2020,8/21/2021
+874,bread,3145,0,7,China,55,8/6/2020,2/8/2022
+875,bread,2899,0,2,Germany,40,2/19/2021,7/2/2021
+876,meat products,1783,1,5,Philippines,66,3/28/2021,6/10/2021
+877,meat products,1810,1,4,Japan,64,1/25/2021,4/15/2022
+878,dairy products,4638,1,4,China,13,1/25/2021,10/9/2021
+879,meat products,3269,1,3,China,42,10/7/2020,6/19/2021
+880,bread,708,0,10,Portugal,16,12/28/2020,7/4/2021
+881,bread,3987,1,1,China,12,6/28/2020,4/30/2021
+882,meat products,823,0,2,Portugal,63,8/1/2020,12/24/2021
+883,dairy products,3844,0,3,Malaysia,31,5/27/2020,10/10/2021
+884,dairy products,1750,0,3,Brazil,58,8/26/2020,2/19/2022
+885,bread,3869,1,3,Indonesia,75,3/2/2021,1/22/2022
+886,dairy products,811,1,5,Vietnam,2,2/24/2021,4/13/2022
+887,bread,3382,1,4,Ukraine,27,11/9/2020,4/5/2022
+888,meat products,3207,1,8,Indonesia,34,5/9/2020,10/31/2021
+889,meat products,3922,0,6,China,71,2/26/2021,4/26/2021
+890,bread,695,1,9,China,86,10/2/2020,6/22/2021
+891,meat products,4619,0,7,Cyprus,50,6/25/2020,10/8/2021
+892,bread,222,0,6,Malaysia,4,3/20/2021,11/30/2021
+893,dairy products,3837,1,6,Japan,16,1/7/2021,8/2/2021
+894,bread,3882,0,8,Colombia,33,11/1/2020,9/17/2021
+895,dairy products,4544,1,3,Indonesia,74,12/31/2020,1/8/2022
+896,meat products,2114,1,4,Ukraine,22,3/23/2021,2/23/2022
+897,dairy products,3745,1,3,Poland,19,4/21/2021,5/17/2021
+898,dairy products,3119,0,1,Russia,42,11/13/2020,9/6/2021
+899,meat products,2403,0,2,Philippines,6,4/6/2021,9/5/2021
+900,dairy products,2977,1,5,Indonesia,56,5/16/2020,1/17/2022
+901,dairy products,1651,0,3,Brazil,79,12/29/2020,1/16/2022
+902,dairy products,397,1,3,Russia,47,12/26/2020,2/28/2022
+903,dairy products,1657,0,10,United States,28,12/1/2020,8/17/2021
+904,dairy products,2129,1,7,Finland,1,10/10/2020,11/27/2021
+905,bread,366,1,7,Uganda,60,5/28/2020,8/10/2021
+906,bread,2585,1,5,Argentina,63,2/25/2021,4/27/2021
+907,dairy products,2651,0,9,China,42,10/21/2020,8/12/2021
+908,bread,760,1,3,Philippines,10,12/25/2020,12/10/2021
+909,bread,4561,0,7,Brazil,24,11/6/2020,7/26/2021
+910,bread,3079,1,1,China,27,4/30/2020,11/16/2021
+911,bread,577,1,10,South Africa,10,12/12/2020,10/5/2021
+912,meat products,2063,0,10,Philippines,79,9/20/2020,9/15/2021
+913,bread,3777,0,7,Philippines,62,7/2/2020,12/6/2021
+914,dairy products,606,1,10,China,94,12/20/2020,2/7/2022
+915,meat products,3018,1,10,China,76,10/28/2020,6/13/2021
+916,meat products,921,0,8,South Africa,37,8/27/2020,2/16/2022
+917,dairy products,968,1,4,Venezuela,51,6/10/2020,6/4/2021
+918,bread,2422,1,1,Sweden,75,5/18/2020,6/23/2021
+919,bread,4454,1,9,Finland,43,7/12/2020,3/1/2022
+920,dairy products,1589,1,7,New Zealand,69,5/5/2020,7/31/2021
+921,bread,2700,1,1,Philippines,62,7/8/2020,1/22/2022
+922,dairy products,2923,1,7,Finland,32,7/2/2020,11/23/2021
+923,meat products,715,0,1,Russia,29,8/27/2020,9/22/2021
+924,dairy products,1429,1,9,China,14,11/19/2020,10/7/2021
+925,meat products,3928,1,1,Brazil,14,2/3/2021,7/13/2021
+926,bread,1425,0,6,Peru,23,10/26/2020,5/22/2021
+927,meat products,2026,0,6,Germany,39,11/1/2020,7/23/2021
+928,bread,2076,0,9,Vietnam,41,12/27/2020,3/6/2022
+929,meat products,4746,1,3,Bulgaria,27,9/21/2020,3/16/2022
+930,meat products,2586,1,5,United States,77,7/8/2020,2/9/2022
+931,meat products,23,1,3,Ukraine,20,11/17/2020,12/21/2021
+932,meat products,1695,1,9,China,79,5/16/2020,3/1/2022
+933,meat products,317,0,6,France,35,10/28/2020,4/18/2022
+934,dairy products,1442,1,7,Indonesia,38,12/5/2020,8/6/2021
+935,dairy products,727,0,6,Latvia,53,11/21/2020,12/20/2021
+936,dairy products,430,1,9,China,88,8/16/2020,1/22/2022
+937,dairy products,2517,0,4,Tanzania,28,4/23/2021,8/3/2021
+938,meat products,1451,1,8,Indonesia,36,5/30/2020,4/27/2021
+939,dairy products,278,1,10,South Africa,51,9/11/2020,4/8/2022
+940,bread,2821,0,3,Hungary,4,2/16/2021,1/14/2022
+941,meat products,1722,1,8,Canada,67,4/5/2021,10/9/2021
+942,meat products,134,0,10,Italy,44,10/12/2020,5/13/2021
+943,meat products,3998,0,1,China,70,11/9/2020,5/7/2021
+944,meat products,290,0,8,Sweden,7,12/20/2020,11/29/2021
+945,bread,2766,1,9,Philippines,93,10/6/2020,7/20/2021
+946,dairy products,1956,1,7,Mauritius,97,2/20/2021,9/15/2021
+947,meat products,2613,0,4,China,99,11/29/2020,10/18/2021
+948,bread,1600,1,3,United States,63,12/21/2020,11/15/2021
+949,dairy products,1980,1,6,Indonesia,92,11/23/2020,5/10/2021
+950,bread,3367,0,2,Dominican Republic,86,10/19/2020,5/29/2021
+951,dairy products,2563,1,6,Poland,95,11/19/2020,4/28/2021
+952,dairy products,3032,0,2,Lesotho,52,4/23/2021,1/30/2022
+953,meat products,2047,1,10,Turkmenistan,66,10/22/2020,5/2/2021
+954,bread,3939,0,8,Czech Republic,61,8/30/2020,5/28/2021
+955,bread,4019,1,3,Philippines,92,9/3/2020,3/11/2022
+956,dairy products,1758,0,7,Portugal,42,7/25/2020,8/3/2021
+957,bread,4667,0,9,China,22,11/6/2020,3/10/2022
+958,bread,1407,0,5,China,6,4/30/2020,4/13/2022
+959,meat products,440,0,1,Indonesia,82,6/30/2020,10/3/2021
+960,bread,1189,0,3,China,33,3/30/2021,2/5/2022
+961,bread,437,0,5,Sweden,59,5/3/2020,12/12/2021
+962,bread,2128,0,9,Honduras,13,12/22/2020,2/17/2022
+963,dairy products,4667,0,5,United States,70,1/7/2021,10/9/2021
+964,dairy products,4445,0,3,Albania,44,7/31/2020,6/6/2021
+965,meat products,3486,0,1,Russia,47,6/13/2020,5/8/2021
+966,bread,59,1,4,France,72,1/25/2021,1/3/2022
+967,bread,2700,1,4,Samoa,25,10/29/2020,7/24/2021
+968,meat products,1063,0,8,Palestinian Territory,4,10/21/2020,3/18/2022
+969,dairy products,4936,1,6,China,98,12/22/2020,3/11/2022
+970,meat products,1417,0,10,China,11,3/17/2021,1/5/2022
+971,dairy products,4168,1,4,Thailand,77,6/6/2020,1/18/2022
+972,meat products,1207,1,6,Brazil,32,11/9/2020,3/30/2022
+973,bread,4783,0,10,Russia,84,7/8/2020,3/22/2022
+974,dairy products,4609,1,8,Sweden,19,4/21/2021,9/9/2021
+975,dairy products,951,1,5,Uruguay,99,9/8/2020,2/16/2022
+976,dairy products,2153,0,1,Indonesia,92,11/27/2020,3/11/2022
+977,bread,3264,1,6,Cambodia,22,11/19/2020,2/23/2022
+978,bread,4307,0,8,Russia,91,10/28/2020,4/18/2022
+979,bread,802,1,6,Ghana,54,9/13/2020,5/28/2021
+980,bread,4088,0,3,China,20,10/29/2020,5/10/2021
+981,meat products,1945,0,5,China,4,7/12/2020,4/29/2021
+982,meat products,93,0,2,Brazil,67,12/19/2020,7/11/2021
+983,meat products,3608,0,3,Russia,19,8/25/2020,9/15/2021
+984,bread,3566,1,2,France,3,12/8/2020,10/14/2021
+985,bread,274,1,2,Portugal,52,2/19/2021,9/12/2021
+986,dairy products,3722,1,6,Mexico,42,1/30/2021,1/24/2022
+987,bread,2010,1,9,Democratic Republic of the Congo,45,5/18/2020,6/11/2021
+988,dairy products,191,1,7,Philippines,47,4/8/2021,9/21/2021
+989,meat products,17,1,8,Brazil,92,2/10/2021,1/15/2022
+990,dairy products,4570,1,8,Philippines,35,6/15/2020,1/16/2022
+991,meat products,1728,1,3,China,23,7/12/2020,10/3/2021
+992,meat products,4888,0,1,Albania,53,11/11/2020,2/15/2022
+993,meat products,2148,1,10,Malta,83,5/18/2020,8/11/2021
+994,dairy products,1858,1,9,Portugal,36,1/14/2021,4/3/2022
+995,dairy products,350,0,9,Cape Verde,78,11/1/2020,12/8/2021
+996,dairy products,3677,0,2,Greece,16,10/20/2020,2/21/2022
+997,meat products,713,0,7,China,63,5/28/2020,7/24/2021
+998,bread,2915,1,7,Indonesia,14,10/27/2020,6/4/2021
+999,dairy products,2323,0,9,China,42,9/3/2020,10/23/2021
+1000,meat products,557,0,8,Indonesia,75,8/4/2020,10/26/2021

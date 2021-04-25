@@ -1,0 +1,1001 @@
+serialNumber ,name ,price ,material ,quality ,manufacturing_country 
+1,cookware,2121,plastic,8,Albania
+2,cookware,3398,plastic,2,Serbia
+3,cookware,1268,plastic,9,China
+4,weapons,1704,plastic,6,United States
+5,cookware,1541,plastic,9,North Korea
+6,cookware,526,plastic,2,Philippines
+7,construction tools,1799,plastic,8,Dominican Republic
+8,cookware,4403,metal,6,Peru
+9,cookware,3392,plastic,10,Poland
+10,cookware,206,metal,6,Indonesia
+11,construction tools,3979,metal,6,Bosnia and Herzegovina
+12,weapons,2557,plastic,7,Panama
+13,cookware,4586,plastic,1,China
+14,construction tools,2677,plastic,2,United States
+15,weapons,2225,plastic,2,Ukraine
+16,weapons,3191,plastic,5,Finland
+17,weapons,4691,metal,3,Portugal
+18,construction tools,1933,plastic,10,China
+19,construction tools,3530,plastic,2,Guyana
+20,construction tools,2981,plastic,8,China
+21,construction tools,4440,metal,1,Ukraine
+22,cookware,3828,plastic,2,Colombia
+23,weapons,2808,plastic,5,Poland
+24,construction tools,2597,plastic,9,Germany
+25,cookware,1961,plastic,6,Poland
+26,cookware,1051,metal,9,Indonesia
+27,construction tools,4892,plastic,4,China
+28,construction tools,3542,plastic,7,Syria
+29,construction tools,3430,metal,3,Russia
+30,construction tools,40,metal,9,Afghanistan
+31,cookware,891,plastic,7,China
+32,weapons,3518,metal,5,Brazil
+33,cookware,884,metal,1,Japan
+34,construction tools,107,metal,6,Canada
+35,cookware,1734,plastic,1,Syria
+36,weapons,605,metal,3,Hungary
+37,cookware,880,plastic,1,China
+38,weapons,1153,metal,9,United States
+39,cookware,1546,plastic,9,Brazil
+40,construction tools,4631,plastic,3,Indonesia
+41,construction tools,2165,plastic,2,Greece
+42,cookware,1817,metal,8,Germany
+43,cookware,4058,plastic,8,Yemen
+44,weapons,1878,plastic,4,Azerbaijan
+45,cookware,871,metal,7,Bolivia
+46,cookware,2985,metal,10,Portugal
+47,construction tools,62,metal,6,Mexico
+48,weapons,4553,metal,5,Greece
+49,construction tools,2408,metal,4,South Korea
+50,construction tools,4489,metal,4,Russia
+51,construction tools,1279,plastic,5,Ukraine
+52,construction tools,748,metal,5,Philippines
+53,weapons,197,plastic,5,China
+54,construction tools,4407,plastic,9,China
+55,weapons,2969,metal,2,Philippines
+56,weapons,2254,metal,3,Thailand
+57,construction tools,4118,plastic,1,Peru
+58,cookware,245,metal,7,Reunion
+59,construction tools,3502,plastic,4,Brazil
+60,weapons,3528,metal,7,Japan
+61,cookware,1621,plastic,6,Uzbekistan
+62,cookware,4177,plastic,2,Indonesia
+63,construction tools,790,plastic,7,Thailand
+64,cookware,3151,metal,10,Indonesia
+65,cookware,525,metal,2,Poland
+66,construction tools,1539,plastic,1,Thailand
+67,cookware,1574,plastic,7,Philippines
+68,construction tools,1716,metal,7,Colombia
+69,cookware,74,metal,8,China
+70,cookware,2740,metal,7,United States
+71,weapons,3627,plastic,7,Czech Republic
+72,cookware,2061,plastic,6,Indonesia
+73,cookware,825,metal,2,Indonesia
+74,weapons,4584,metal,6,Greece
+75,weapons,25,plastic,4,Czech Republic
+76,cookware,2464,metal,8,United States
+77,cookware,1156,metal,6,China
+78,weapons,1123,metal,3,Poland
+79,weapons,733,metal,9,Sri Lanka
+80,cookware,3186,plastic,10,Albania
+81,weapons,682,plastic,10,Indonesia
+82,cookware,722,metal,4,Thailand
+83,cookware,165,plastic,6,China
+84,cookware,2782,plastic,6,China
+85,construction tools,4065,metal,2,United States
+86,construction tools,3098,metal,2,Brazil
+87,construction tools,166,metal,6,Ivory Coast
+88,cookware,760,metal,6,China
+89,cookware,3648,metal,3,Indonesia
+90,cookware,4473,plastic,2,Brazil
+91,cookware,2442,metal,3,Russia
+92,weapons,4598,metal,10,Sweden
+93,weapons,3555,metal,7,Russia
+94,cookware,2444,metal,8,Russia
+95,weapons,3454,plastic,8,United States
+96,construction tools,1428,plastic,3,Philippines
+97,construction tools,3352,plastic,7,Philippines
+98,cookware,3440,plastic,10,Colombia
+99,construction tools,1167,metal,1,Czech Republic
+100,weapons,2499,plastic,5,Zambia
+101,cookware,351,metal,10,France
+102,construction tools,2463,metal,10,Portugal
+103,construction tools,860,metal,7,Peru
+104,construction tools,1707,plastic,6,China
+105,construction tools,2477,metal,4,Ukraine
+106,construction tools,2572,metal,2,Brazil
+107,construction tools,684,plastic,10,Russia
+108,cookware,1258,plastic,2,Norway
+109,construction tools,3486,metal,5,France
+110,weapons,1421,plastic,7,Kazakhstan
+111,cookware,3194,metal,4,Indonesia
+112,cookware,1257,plastic,8,Indonesia
+113,weapons,4558,plastic,4,Afghanistan
+114,cookware,1050,plastic,7,China
+115,cookware,185,metal,1,China
+116,construction tools,1442,plastic,1,China
+117,construction tools,2091,metal,7,Philippines
+118,construction tools,9,metal,4,Ukraine
+119,cookware,4374,plastic,4,Russia
+120,construction tools,4121,metal,6,Rwanda
+121,weapons,1516,plastic,1,Yemen
+122,cookware,1164,plastic,4,Colombia
+123,construction tools,351,metal,5,China
+124,cookware,3565,metal,8,Japan
+125,cookware,1461,metal,6,Armenia
+126,cookware,320,metal,10,Greece
+127,cookware,2014,plastic,6,France
+128,weapons,896,metal,8,Indonesia
+129,cookware,1814,plastic,5,Palestinian Territory
+130,construction tools,3294,metal,1,Portugal
+131,construction tools,4350,metal,1,Malaysia
+132,construction tools,554,metal,5,Portugal
+133,cookware,1069,plastic,8,Mexico
+134,cookware,2765,metal,6,France
+135,construction tools,4508,plastic,3,Philippines
+136,cookware,3078,plastic,5,Philippines
+137,cookware,1770,plastic,2,China
+138,cookware,1999,plastic,10,Netherlands
+139,weapons,1769,metal,8,Estonia
+140,cookware,1653,plastic,2,Nigeria
+141,construction tools,4582,metal,6,Brazil
+142,cookware,2566,plastic,6,China
+143,weapons,4643,metal,3,Slovenia
+144,construction tools,2695,metal,3,South Korea
+145,weapons,1049,plastic,7,China
+146,cookware,4886,plastic,2,Peru
+147,weapons,3444,metal,4,Chad
+148,weapons,2641,plastic,8,Peru
+149,cookware,3859,metal,4,Belgium
+150,cookware,553,plastic,8,Russia
+151,construction tools,2434,plastic,10,Sweden
+152,cookware,3463,plastic,7,Kenya
+153,construction tools,1563,plastic,9,Venezuela
+154,construction tools,1040,plastic,8,Sweden
+155,cookware,2579,plastic,9,Palestinian Territory
+156,weapons,905,metal,8,France
+157,weapons,2559,metal,3,China
+158,weapons,4637,metal,10,Ukraine
+159,construction tools,3775,metal,8,Libya
+160,construction tools,3019,metal,6,Portugal
+161,construction tools,4681,metal,10,China
+162,weapons,2399,plastic,4,Poland
+163,weapons,4072,plastic,3,Swaziland
+164,construction tools,2472,plastic,8,China
+165,construction tools,1319,metal,8,Indonesia
+166,construction tools,4922,plastic,4,China
+167,cookware,3483,metal,8,Ukraine
+168,weapons,343,metal,6,Russia
+169,weapons,110,plastic,2,France
+170,weapons,3923,metal,2,China
+171,construction tools,2545,plastic,10,Venezuela
+172,cookware,3526,plastic,1,Estonia
+173,construction tools,2378,metal,7,Brazil
+174,cookware,957,metal,6,Poland
+175,cookware,1350,metal,1,Brazil
+176,weapons,4882,plastic,7,Indonesia
+177,weapons,4494,metal,2,China
+178,weapons,100,plastic,2,Russia
+179,cookware,5000,plastic,6,Russia
+180,construction tools,212,plastic,2,Uruguay
+181,weapons,4035,metal,3,Greece
+182,construction tools,1318,metal,3,Russia
+183,weapons,919,plastic,9,China
+184,cookware,475,metal,7,China
+185,cookware,4550,plastic,2,Indonesia
+186,weapons,4357,plastic,6,Canada
+187,construction tools,1826,plastic,10,Russia
+188,cookware,2405,metal,10,Indonesia
+189,cookware,4690,plastic,8,Costa Rica
+190,construction tools,1020,plastic,10,Australia
+191,cookware,2293,plastic,5,United States
+192,cookware,40,plastic,9,Japan
+193,cookware,2222,metal,3,Norway
+194,construction tools,3153,plastic,9,China
+195,weapons,601,metal,7,Botswana
+196,cookware,2884,metal,10,Indonesia
+197,construction tools,4832,plastic,1,Indonesia
+198,weapons,6,plastic,3,China
+199,weapons,1060,metal,8,Russia
+200,cookware,3256,plastic,8,Indonesia
+201,weapons,4874,metal,8,Nepal
+202,construction tools,136,metal,9,Luxembourg
+203,weapons,2666,metal,3,Honduras
+204,cookware,1895,plastic,4,Russia
+205,weapons,1668,metal,8,China
+206,construction tools,3122,plastic,8,Belarus
+207,cookware,3391,metal,8,New Zealand
+208,construction tools,2278,metal,2,Indonesia
+209,cookware,3600,plastic,10,Uzbekistan
+210,weapons,3814,metal,10,Philippines
+211,cookware,4015,metal,10,China
+212,construction tools,4257,metal,7,Slovenia
+213,cookware,2369,metal,3,Peru
+214,construction tools,2531,plastic,7,Indonesia
+215,cookware,4459,plastic,3,Poland
+216,construction tools,2760,metal,10,Indonesia
+217,construction tools,946,plastic,7,Indonesia
+218,weapons,806,metal,7,Peru
+219,construction tools,507,metal,3,Indonesia
+220,weapons,4151,plastic,4,China
+221,cookware,3406,plastic,5,China
+222,construction tools,4687,plastic,9,China
+223,cookware,3072,metal,3,Poland
+224,weapons,4121,plastic,1,Philippines
+225,weapons,4385,plastic,1,Botswana
+226,weapons,43,metal,7,Poland
+227,cookware,1184,plastic,3,Philippines
+228,cookware,3330,metal,5,China
+229,construction tools,4924,metal,3,China
+230,cookware,471,metal,6,Ukraine
+231,cookware,4391,metal,3,Russia
+232,cookware,2577,metal,1,Hungary
+233,construction tools,3572,metal,8,Uganda
+234,cookware,3764,plastic,5,Haiti
+235,construction tools,3403,plastic,10,China
+236,cookware,1795,metal,8,Sweden
+237,construction tools,467,metal,3,Philippines
+238,construction tools,3061,plastic,8,Serbia
+239,construction tools,2885,metal,7,China
+240,construction tools,3568,plastic,3,Colombia
+241,weapons,4865,plastic,5,China
+242,cookware,2329,metal,6,Ukraine
+243,cookware,3336,plastic,8,Poland
+244,weapons,4529,metal,3,Philippines
+245,construction tools,1399,plastic,2,Mongolia
+246,weapons,425,metal,6,Russia
+247,weapons,4298,metal,9,China
+248,weapons,1310,plastic,2,Vietnam
+249,construction tools,1649,plastic,1,Canada
+250,construction tools,808,metal,9,Russia
+251,weapons,3152,plastic,10,Russia
+252,cookware,3209,plastic,4,Indonesia
+253,weapons,1144,plastic,4,China
+254,weapons,1689,plastic,10,France
+255,cookware,4695,metal,8,China
+256,weapons,2591,plastic,10,Indonesia
+257,construction tools,1776,plastic,5,Sweden
+258,construction tools,4299,metal,1,Portugal
+259,weapons,230,plastic,1,China
+260,weapons,4697,plastic,10,Russia
+261,construction tools,1089,metal,6,Nigeria
+262,weapons,4902,plastic,8,Ukraine
+263,construction tools,319,plastic,4,Egypt
+264,cookware,4752,metal,2,Japan
+265,weapons,2250,plastic,6,China
+266,cookware,4673,metal,2,China
+267,construction tools,2360,plastic,5,Bahamas
+268,cookware,341,metal,6,Nepal
+269,weapons,2363,plastic,3,Nigeria
+270,cookware,154,metal,6,Russia
+271,weapons,1443,plastic,1,Mexico
+272,construction tools,3546,metal,3,China
+273,weapons,3503,metal,9,Thailand
+274,weapons,2474,metal,4,China
+275,construction tools,17,metal,5,China
+276,construction tools,2359,plastic,6,China
+277,construction tools,4733,plastic,7,Brazil
+278,weapons,1322,metal,2,France
+279,weapons,3823,plastic,6,China
+280,construction tools,609,metal,4,Indonesia
+281,cookware,443,metal,8,Bulgaria
+282,construction tools,4245,metal,7,Argentina
+283,construction tools,1162,metal,3,Greece
+284,cookware,1244,plastic,2,Mexico
+285,cookware,548,plastic,5,Indonesia
+286,weapons,3048,plastic,5,Portugal
+287,cookware,2230,metal,7,South Africa
+288,cookware,255,metal,9,United States
+289,construction tools,1404,metal,3,China
+290,cookware,3321,metal,8,Russia
+291,weapons,3207,plastic,9,Norway
+292,weapons,3376,plastic,9,Vietnam
+293,weapons,4419,plastic,3,Indonesia
+294,construction tools,4573,metal,4,Barbados
+295,cookware,1599,metal,9,Russia
+296,weapons,3731,metal,3,Nigeria
+297,construction tools,458,metal,10,Armenia
+298,construction tools,978,metal,2,China
+299,cookware,2161,plastic,8,Brazil
+300,cookware,4540,plastic,8,Poland
+301,cookware,2019,plastic,3,China
+302,weapons,4675,metal,9,Luxembourg
+303,construction tools,3619,plastic,9,Ireland
+304,construction tools,2116,metal,1,Ethiopia
+305,cookware,1465,metal,1,Portugal
+306,construction tools,4797,metal,9,Chile
+307,construction tools,2311,plastic,1,Brazil
+308,construction tools,3370,plastic,6,Syria
+309,construction tools,724,metal,10,China
+310,weapons,2587,metal,5,France
+311,weapons,216,plastic,3,Portugal
+312,weapons,2092,plastic,7,China
+313,weapons,3288,metal,5,Spain
+314,weapons,3912,plastic,9,Finland
+315,cookware,4846,plastic,7,China
+316,weapons,2095,plastic,8,Brazil
+317,cookware,1751,metal,2,Finland
+318,cookware,2534,plastic,1,China
+319,cookware,2598,plastic,6,Russia
+320,weapons,2037,metal,1,China
+321,cookware,4519,plastic,6,China
+322,cookware,1732,plastic,1,France
+323,construction tools,1289,metal,1,Mexico
+324,construction tools,1084,metal,2,Peru
+325,cookware,4581,plastic,9,China
+326,construction tools,55,metal,4,Poland
+327,cookware,2765,plastic,6,Guatemala
+328,weapons,4672,metal,6,Brazil
+329,construction tools,1380,plastic,6,Portugal
+330,construction tools,4802,metal,5,Indonesia
+331,construction tools,1566,plastic,10,Angola
+332,weapons,201,metal,8,China
+333,weapons,4107,metal,9,Indonesia
+334,cookware,2983,plastic,2,Netherlands
+335,weapons,91,metal,1,Oman
+336,cookware,4268,plastic,10,Thailand
+337,construction tools,1930,metal,7,Serbia
+338,weapons,4423,metal,7,Russia
+339,construction tools,2105,plastic,2,Democratic Republic of the Congo
+340,construction tools,2616,metal,7,Armenia
+341,construction tools,3026,plastic,7,China
+342,construction tools,4183,metal,7,Uganda
+343,weapons,3930,plastic,8,Philippines
+344,cookware,2507,plastic,4,United States
+345,weapons,1457,plastic,3,Indonesia
+346,weapons,2708,plastic,3,Mongolia
+347,weapons,2947,metal,1,Greece
+348,construction tools,4930,metal,7,China
+349,weapons,4969,metal,4,China
+350,construction tools,1928,metal,6,China
+351,weapons,3066,plastic,10,China
+352,cookware,2501,plastic,5,Malaysia
+353,cookware,1000,plastic,8,China
+354,construction tools,388,plastic,5,United States
+355,construction tools,3603,metal,6,Russia
+356,weapons,2202,metal,1,Peru
+357,construction tools,2612,plastic,5,Finland
+358,weapons,2273,metal,4,United Kingdom
+359,weapons,1594,plastic,1,El Salvador
+360,construction tools,682,plastic,10,Albania
+361,construction tools,1376,plastic,9,Mongolia
+362,cookware,3007,metal,4,China
+363,cookware,4041,plastic,6,Central African Republic
+364,cookware,1678,plastic,3,Sweden
+365,construction tools,4823,plastic,3,China
+366,construction tools,915,plastic,1,Kosovo
+367,construction tools,3762,metal,1,Afghanistan
+368,construction tools,2898,plastic,7,Vietnam
+369,weapons,1992,plastic,4,Sweden
+370,construction tools,4246,plastic,3,Dominican Republic
+371,weapons,1042,plastic,2,Philippines
+372,construction tools,72,plastic,9,Indonesia
+373,weapons,3711,metal,8,Italy
+374,cookware,1191,metal,4,Indonesia
+375,weapons,1265,plastic,4,China
+376,cookware,2428,metal,3,Chad
+377,construction tools,4580,metal,2,Guatemala
+378,weapons,358,metal,1,Russia
+379,weapons,2614,plastic,4,Ukraine
+380,cookware,3797,metal,10,Albania
+381,construction tools,1561,metal,3,Norway
+382,construction tools,1597,metal,2,United States
+383,construction tools,4824,metal,3,China
+384,weapons,4100,plastic,2,Libya
+385,cookware,2787,plastic,1,Czech Republic
+386,cookware,15,plastic,4,Japan
+387,construction tools,1923,plastic,2,Peru
+388,cookware,1529,metal,8,Poland
+389,construction tools,1361,metal,7,France
+390,cookware,2307,plastic,5,Colombia
+391,weapons,3146,plastic,8,Serbia
+392,cookware,131,metal,1,Spain
+393,cookware,2013,metal,9,Greece
+394,weapons,1386,metal,8,China
+395,construction tools,4813,metal,7,Argentina
+396,construction tools,1028,metal,1,Indonesia
+397,construction tools,3699,metal,3,Colombia
+398,cookware,3882,metal,1,Brazil
+399,cookware,2192,plastic,7,Poland
+400,cookware,3003,metal,8,Sweden
+401,cookware,2907,metal,1,Portugal
+402,weapons,3277,metal,9,China
+403,weapons,3863,metal,2,Japan
+404,construction tools,924,plastic,5,Argentina
+405,cookware,2290,plastic,1,Morocco
+406,weapons,2266,metal,9,Saint Lucia
+407,cookware,1152,plastic,3,Honduras
+408,cookware,3028,metal,5,Thailand
+409,cookware,4296,plastic,10,Philippines
+410,weapons,2627,metal,6,Aland Islands
+411,construction tools,1149,plastic,8,Poland
+412,weapons,288,plastic,5,Nigeria
+413,weapons,975,plastic,4,Malaysia
+414,construction tools,3720,plastic,6,Portugal
+415,construction tools,2864,plastic,4,Philippines
+416,cookware,1361,plastic,10,Brazil
+417,weapons,3500,metal,3,Sweden
+418,construction tools,1776,metal,6,Indonesia
+419,cookware,1139,plastic,4,Indonesia
+420,construction tools,3327,plastic,9,Germany
+421,construction tools,4569,plastic,1,Russia
+422,construction tools,4940,plastic,4,Mexico
+423,weapons,3040,plastic,7,Sweden
+424,construction tools,3378,plastic,1,Philippines
+425,cookware,1296,plastic,9,Brazil
+426,construction tools,1194,plastic,8,Indonesia
+427,cookware,2240,plastic,4,Tunisia
+428,cookware,4497,plastic,3,Malta
+429,cookware,4208,plastic,7,Russia
+430,weapons,1788,plastic,5,Portugal
+431,construction tools,4219,plastic,7,Japan
+432,cookware,2510,plastic,9,Indonesia
+433,construction tools,2455,plastic,4,Albania
+434,weapons,3555,metal,1,Czech Republic
+435,construction tools,3414,plastic,4,Indonesia
+436,weapons,2569,metal,2,Sweden
+437,weapons,2855,plastic,1,Sweden
+438,weapons,4963,metal,4,France
+439,weapons,3744,metal,6,China
+440,cookware,4606,metal,1,China
+441,cookware,4722,metal,10,Poland
+442,construction tools,337,plastic,9,Guatemala
+443,construction tools,506,plastic,7,Indonesia
+444,construction tools,875,plastic,4,Indonesia
+445,weapons,2609,plastic,3,Vietnam
+446,construction tools,3080,plastic,4,Ireland
+447,cookware,4448,metal,6,Armenia
+448,construction tools,2015,plastic,2,Russia
+449,construction tools,2741,metal,10,Ukraine
+450,cookware,4352,plastic,8,Russia
+451,construction tools,3906,metal,7,Philippines
+452,cookware,1391,plastic,1,Greece
+453,weapons,1416,metal,5,Ukraine
+454,construction tools,2652,plastic,7,South Korea
+455,cookware,1211,plastic,8,China
+456,weapons,2638,metal,6,Argentina
+457,weapons,1885,plastic,7,Paraguay
+458,construction tools,4099,metal,7,Indonesia
+459,weapons,3502,metal,3,China
+460,cookware,570,metal,1,Sweden
+461,weapons,4694,plastic,8,Czech Republic
+462,weapons,2492,plastic,8,Philippines
+463,weapons,3764,plastic,10,Greece
+464,cookware,3204,metal,6,Indonesia
+465,construction tools,1821,plastic,3,Italy
+466,construction tools,2409,plastic,2,Comoros
+467,cookware,4796,plastic,10,Russia
+468,construction tools,2804,metal,3,Australia
+469,weapons,2839,metal,3,Ukraine
+470,weapons,2809,metal,8,China
+471,weapons,1260,metal,3,Venezuela
+472,weapons,248,plastic,4,Indonesia
+473,construction tools,4601,metal,9,Russia
+474,cookware,2209,metal,1,Sweden
+475,weapons,2181,metal,8,Kazakhstan
+476,construction tools,4075,metal,10,Indonesia
+477,construction tools,1209,metal,10,France
+478,cookware,1226,plastic,3,Finland
+479,cookware,4713,metal,1,Liberia
+480,construction tools,4455,plastic,9,Portugal
+481,weapons,4683,plastic,6,United States
+482,cookware,4383,plastic,2,Uganda
+483,weapons,3107,plastic,3,China
+484,weapons,4861,metal,2,Yemen
+485,cookware,1154,metal,3,China
+486,construction tools,3940,metal,8,Poland
+487,weapons,2925,metal,1,Ukraine
+488,weapons,3835,plastic,3,United States
+489,weapons,1084,plastic,7,Philippines
+490,construction tools,99,plastic,1,Indonesia
+491,cookware,3687,plastic,3,China
+492,weapons,4753,metal,10,Indonesia
+493,cookware,4725,metal,9,Philippines
+494,construction tools,2851,plastic,9,China
+495,cookware,4604,plastic,7,Guatemala
+496,cookware,2281,plastic,1,China
+497,cookware,584,plastic,8,Russia
+498,weapons,3911,plastic,4,Indonesia
+499,construction tools,2117,metal,9,Chile
+500,weapons,1736,plastic,5,Greece
+501,cookware,1296,metal,10,Finland
+502,weapons,3141,plastic,9,China
+503,construction tools,2228,plastic,3,Philippines
+504,construction tools,2874,metal,4,Philippines
+505,cookware,709,plastic,9,China
+506,cookware,3138,metal,7,Poland
+507,weapons,1981,metal,8,Malaysia
+508,weapons,3701,metal,2,Tunisia
+509,weapons,2727,plastic,1,Thailand
+510,construction tools,2332,metal,6,Poland
+511,construction tools,3760,metal,8,Ukraine
+512,cookware,2620,plastic,1,China
+513,weapons,1435,plastic,5,Finland
+514,cookware,2660,metal,5,Colombia
+515,cookware,4155,plastic,5,Russia
+516,weapons,2023,metal,1,Cuba
+517,cookware,1406,metal,7,China
+518,weapons,2011,metal,1,Laos
+519,construction tools,1363,metal,5,Israel
+520,weapons,2855,plastic,9,Brazil
+521,cookware,4885,metal,4,Ethiopia
+522,construction tools,1716,metal,5,China
+523,construction tools,637,metal,9,Morocco
+524,construction tools,3889,metal,5,China
+525,weapons,1306,plastic,5,Iran
+526,construction tools,285,plastic,6,Indonesia
+527,construction tools,4436,plastic,8,Indonesia
+528,weapons,3904,plastic,1,Paraguay
+529,weapons,338,metal,10,China
+530,cookware,1967,plastic,7,Samoa
+531,construction tools,4048,metal,9,United States
+532,cookware,471,plastic,6,Poland
+533,weapons,4699,metal,8,Peru
+534,weapons,2678,plastic,10,Russia
+535,weapons,3459,metal,8,Indonesia
+536,cookware,2191,metal,4,Indonesia
+537,construction tools,1520,plastic,2,Tunisia
+538,weapons,234,metal,6,Bolivia
+539,cookware,1954,metal,6,Argentina
+540,cookware,2495,plastic,5,Indonesia
+541,cookware,3801,plastic,5,China
+542,cookware,4934,plastic,2,United States
+543,weapons,1147,plastic,3,Iran
+544,weapons,2834,plastic,6,Poland
+545,weapons,1810,plastic,5,Argentina
+546,weapons,831,plastic,10,China
+547,construction tools,961,plastic,5,Philippines
+548,cookware,3538,plastic,2,Russia
+549,construction tools,4545,plastic,3,Colombia
+550,weapons,1192,plastic,5,China
+551,weapons,4782,metal,2,China
+552,cookware,1387,metal,7,Indonesia
+553,cookware,1142,metal,10,Philippines
+554,weapons,1589,plastic,5,Turks and Caicos Islands
+555,cookware,2935,plastic,6,Portugal
+556,weapons,3091,plastic,9,Indonesia
+557,weapons,863,metal,9,Indonesia
+558,weapons,1918,metal,7,Russia
+559,weapons,4097,plastic,9,Indonesia
+560,weapons,1120,plastic,1,Indonesia
+561,weapons,3994,metal,1,Ukraine
+562,cookware,3056,plastic,4,Philippines
+563,weapons,2677,metal,2,Sweden
+564,construction tools,355,metal,7,Ivory Coast
+565,weapons,4356,plastic,6,South Africa
+566,construction tools,3131,metal,8,China
+567,weapons,3480,plastic,9,China
+568,weapons,3262,metal,2,Armenia
+569,cookware,3794,metal,6,Russia
+570,weapons,943,metal,10,China
+571,construction tools,2052,metal,4,Russia
+572,construction tools,4205,metal,1,China
+573,weapons,2449,metal,2,Philippines
+574,cookware,3944,plastic,9,Zimbabwe
+575,weapons,4519,plastic,4,China
+576,cookware,2765,plastic,4,China
+577,cookware,2640,plastic,2,Botswana
+578,weapons,3033,metal,6,Indonesia
+579,cookware,4160,plastic,9,Brazil
+580,cookware,1333,plastic,3,Indonesia
+581,weapons,1042,metal,4,Serbia
+582,cookware,4751,plastic,9,Slovenia
+583,cookware,2408,metal,3,Indonesia
+584,cookware,4261,metal,3,Finland
+585,weapons,458,plastic,2,Czech Republic
+586,construction tools,3489,plastic,8,China
+587,cookware,2728,plastic,1,China
+588,construction tools,4459,metal,9,Macedonia
+589,construction tools,4465,metal,3,France
+590,weapons,1560,plastic,9,China
+591,construction tools,3853,plastic,7,France
+592,weapons,1109,metal,5,Greece
+593,cookware,396,metal,5,Serbia
+594,cookware,3264,plastic,6,China
+595,construction tools,3293,plastic,6,Russia
+596,weapons,4104,metal,4,Indonesia
+597,construction tools,3745,metal,5,Yemen
+598,weapons,2931,plastic,9,Azerbaijan
+599,construction tools,1312,plastic,2,China
+600,weapons,3298,plastic,3,Portugal
+601,cookware,3787,plastic,5,China
+602,weapons,4450,plastic,2,Kenya
+603,weapons,3004,plastic,8,Mexico
+604,cookware,357,plastic,9,Sweden
+605,weapons,3463,metal,1,Poland
+606,cookware,383,metal,5,Ireland
+607,weapons,4018,metal,2,Philippines
+608,construction tools,1486,metal,4,Serbia
+609,weapons,4727,metal,5,Georgia
+610,weapons,737,plastic,2,Kiribati
+611,cookware,2286,metal,3,Portugal
+612,cookware,4626,plastic,5,China
+613,cookware,2833,plastic,5,Ukraine
+614,construction tools,3481,plastic,3,China
+615,construction tools,847,plastic,2,Democratic Republic of the Congo
+616,construction tools,3295,plastic,5,Russia
+617,cookware,2304,metal,4,Indonesia
+618,cookware,1578,metal,6,China
+619,cookware,3465,metal,10,Brazil
+620,weapons,4973,metal,10,Benin
+621,construction tools,191,metal,1,Indonesia
+622,construction tools,2331,metal,1,Slovenia
+623,cookware,2558,plastic,6,Mexico
+624,construction tools,3548,metal,3,Indonesia
+625,cookware,4148,plastic,9,Philippines
+626,cookware,3774,plastic,1,China
+627,weapons,2064,plastic,7,China
+628,construction tools,1992,plastic,5,Indonesia
+629,weapons,2776,plastic,3,Russia
+630,weapons,1932,plastic,2,Russia
+631,weapons,2362,plastic,1,Indonesia
+632,weapons,4886,metal,9,China
+633,cookware,775,plastic,8,Japan
+634,cookware,999,plastic,4,Colombia
+635,cookware,899,plastic,1,Indonesia
+636,weapons,1004,plastic,1,Nigeria
+637,construction tools,1197,metal,6,Japan
+638,construction tools,4075,metal,2,China
+639,cookware,4462,plastic,4,Namibia
+640,weapons,4989,metal,1,Canada
+641,construction tools,4394,metal,1,Brazil
+642,construction tools,1337,metal,7,Indonesia
+643,weapons,2819,metal,6,China
+644,construction tools,73,metal,3,Indonesia
+645,cookware,1121,plastic,8,Sweden
+646,weapons,4414,metal,10,Philippines
+647,weapons,4256,metal,5,Brazil
+648,construction tools,3100,plastic,9,Belarus
+649,construction tools,4914,metal,8,China
+650,weapons,2245,metal,7,Sweden
+651,construction tools,611,plastic,9,Serbia
+652,cookware,3046,plastic,4,Russia
+653,weapons,4546,plastic,10,Russia
+654,cookware,999,plastic,4,Indonesia
+655,weapons,854,plastic,6,Peru
+656,construction tools,588,metal,4,Peru
+657,construction tools,354,plastic,6,Greece
+658,construction tools,3686,plastic,5,Mexico
+659,construction tools,1123,plastic,4,Russia
+660,construction tools,2931,plastic,7,France
+661,weapons,3469,plastic,3,Zimbabwe
+662,construction tools,3258,plastic,8,Philippines
+663,construction tools,770,plastic,9,Mozambique
+664,weapons,2604,metal,6,Iran
+665,construction tools,3222,metal,4,Sweden
+666,construction tools,3503,metal,9,Poland
+667,cookware,3977,plastic,7,Serbia
+668,cookware,4086,metal,2,Poland
+669,cookware,3223,plastic,8,Indonesia
+670,cookware,1955,plastic,10,China
+671,construction tools,22,plastic,10,Cameroon
+672,construction tools,4187,metal,10,Bulgaria
+673,construction tools,802,plastic,8,Peru
+674,construction tools,3933,plastic,9,China
+675,construction tools,4401,metal,7,Venezuela
+676,cookware,2011,plastic,7,Greenland
+677,weapons,4271,plastic,6,Malaysia
+678,weapons,1413,metal,7,China
+679,construction tools,667,metal,8,Portugal
+680,weapons,2990,metal,9,Vietnam
+681,construction tools,2373,plastic,6,China
+682,cookware,984,plastic,2,Bangladesh
+683,weapons,272,plastic,9,Russia
+684,weapons,3403,metal,8,Canada
+685,construction tools,4276,plastic,7,Brazil
+686,cookware,651,plastic,8,China
+687,construction tools,4135,metal,9,Russia
+688,weapons,1209,metal,4,Indonesia
+689,weapons,4868,plastic,1,Philippines
+690,cookware,4179,plastic,10,France
+691,construction tools,1693,metal,7,Czech Republic
+692,construction tools,3046,metal,6,Philippines
+693,construction tools,4216,metal,2,Bulgaria
+694,weapons,4968,metal,3,Russia
+695,cookware,1736,plastic,8,Portugal
+696,cookware,4500,plastic,6,France
+697,construction tools,1121,metal,4,Albania
+698,construction tools,379,plastic,8,Yemen
+699,weapons,3511,metal,3,Ireland
+700,weapons,4739,metal,4,Peru
+701,weapons,4968,plastic,5,Greece
+702,cookware,3447,metal,2,Philippines
+703,construction tools,2957,metal,6,Netherlands
+704,weapons,4932,metal,2,China
+705,weapons,1955,metal,5,Greece
+706,construction tools,942,metal,4,Indonesia
+707,weapons,1338,metal,2,Vietnam
+708,weapons,4541,plastic,6,Indonesia
+709,weapons,4940,plastic,2,China
+710,weapons,3707,metal,5,Dominican Republic
+711,cookware,1061,plastic,5,Mongolia
+712,cookware,1606,metal,3,China
+713,construction tools,1703,plastic,4,China
+714,construction tools,4819,metal,5,China
+715,weapons,3682,plastic,4,Russia
+716,weapons,2281,metal,8,China
+717,construction tools,759,plastic,3,Peru
+718,weapons,1304,metal,5,Indonesia
+719,construction tools,4321,metal,3,France
+720,weapons,4719,metal,8,United States
+721,construction tools,4155,metal,3,China
+722,weapons,1064,plastic,6,Peru
+723,construction tools,4228,metal,2,Indonesia
+724,cookware,1399,plastic,7,China
+725,weapons,3574,plastic,9,Philippines
+726,construction tools,4220,metal,9,China
+727,weapons,4572,metal,8,Philippines
+728,weapons,3002,plastic,10,Czech Republic
+729,cookware,522,plastic,9,Indonesia
+730,cookware,782,plastic,3,China
+731,construction tools,2670,metal,3,Russia
+732,weapons,4388,metal,1,Pakistan
+733,cookware,4698,metal,8,Brazil
+734,cookware,1658,metal,8,China
+735,weapons,1114,plastic,7,Argentina
+736,weapons,2027,plastic,8,Thailand
+737,cookware,787,metal,8,France
+738,construction tools,4823,plastic,9,Poland
+739,cookware,2406,metal,4,Peru
+740,cookware,4892,plastic,9,Russia
+741,weapons,776,metal,3,Indonesia
+742,cookware,2516,plastic,10,Philippines
+743,construction tools,3720,plastic,9,Brazil
+744,weapons,2158,metal,4,Indonesia
+745,construction tools,3963,metal,1,China
+746,construction tools,2038,metal,8,Brazil
+747,cookware,799,plastic,7,France
+748,cookware,4175,metal,9,Portugal
+749,weapons,1668,plastic,10,Indonesia
+750,cookware,1201,metal,7,Argentina
+751,weapons,2650,plastic,2,Micronesia
+752,construction tools,4186,plastic,1,United States
+753,weapons,4127,metal,9,France
+754,construction tools,3297,metal,1,Burkina Faso
+755,construction tools,3682,plastic,1,Brazil
+756,weapons,300,plastic,7,Mali
+757,weapons,963,plastic,3,China
+758,weapons,1288,metal,5,Indonesia
+759,construction tools,679,metal,9,Brazil
+760,construction tools,3992,plastic,10,Argentina
+761,cookware,1072,metal,9,Kosovo
+762,construction tools,1845,plastic,4,Brazil
+763,weapons,494,plastic,5,Czech Republic
+764,weapons,4761,metal,1,Finland
+765,weapons,1537,plastic,9,Indonesia
+766,weapons,2207,plastic,3,Indonesia
+767,weapons,4259,metal,8,Poland
+768,construction tools,4259,metal,10,Indonesia
+769,construction tools,4717,plastic,7,China
+770,construction tools,62,metal,2,Japan
+771,construction tools,274,metal,5,Czech Republic
+772,weapons,90,metal,3,Japan
+773,construction tools,3810,metal,3,Greece
+774,cookware,4547,metal,8,United States
+775,weapons,3237,metal,2,Indonesia
+776,weapons,4181,metal,6,China
+777,cookware,4787,metal,7,Philippines
+778,construction tools,1670,plastic,2,Indonesia
+779,weapons,4048,plastic,4,Somalia
+780,cookware,2034,metal,2,Kuwait
+781,weapons,3375,metal,2,Kyrgyzstan
+782,construction tools,2106,metal,7,El Salvador
+783,weapons,2278,plastic,8,China
+784,construction tools,1291,plastic,2,Ukraine
+785,construction tools,2685,metal,9,Poland
+786,cookware,4222,metal,8,Indonesia
+787,weapons,3920,plastic,10,Jordan
+788,construction tools,1220,plastic,1,Indonesia
+789,weapons,1185,plastic,9,Brazil
+790,construction tools,2147,plastic,2,Serbia
+791,weapons,2580,plastic,10,Russia
+792,weapons,1597,plastic,8,Poland
+793,construction tools,3150,metal,2,Brazil
+794,cookware,2375,plastic,8,China
+795,construction tools,1103,plastic,8,Argentina
+796,cookware,4843,plastic,1,Philippines
+797,cookware,190,plastic,4,Tanzania
+798,cookware,4021,metal,1,Finland
+799,cookware,44,plastic,3,China
+800,construction tools,1927,plastic,8,Philippines
+801,weapons,1724,plastic,2,Brazil
+802,weapons,2324,plastic,9,Indonesia
+803,cookware,273,plastic,4,China
+804,cookware,2455,metal,3,China
+805,weapons,1497,metal,2,Serbia
+806,construction tools,4806,metal,10,El Salvador
+807,weapons,2117,plastic,6,Republic of the Congo
+808,weapons,672,plastic,4,Indonesia
+809,cookware,1900,plastic,7,China
+810,cookware,1610,plastic,5,Morocco
+811,cookware,3600,metal,8,Cyprus
+812,weapons,4046,metal,4,Thailand
+813,cookware,3065,plastic,4,Poland
+814,cookware,498,metal,6,Saudi Arabia
+815,weapons,483,plastic,2,Indonesia
+816,weapons,3722,metal,7,Honduras
+817,cookware,585,metal,9,Cameroon
+818,cookware,42,plastic,7,Indonesia
+819,weapons,501,metal,8,Japan
+820,cookware,1283,plastic,3,Libya
+821,cookware,4662,metal,8,Turkey
+822,weapons,327,metal,7,China
+823,weapons,1998,metal,2,China
+824,construction tools,2074,metal,2,Argentina
+825,construction tools,3010,plastic,5,Uganda
+826,construction tools,3727,metal,5,Brazil
+827,cookware,135,metal,4,Poland
+828,weapons,2762,metal,9,Vietnam
+829,construction tools,1607,metal,1,Afghanistan
+830,weapons,4497,metal,3,Costa Rica
+831,weapons,310,metal,10,Indonesia
+832,weapons,4899,metal,4,China
+833,cookware,1383,plastic,10,China
+834,cookware,3780,metal,2,Niger
+835,weapons,2256,plastic,8,Israel
+836,construction tools,2007,metal,4,Brazil
+837,construction tools,3122,plastic,4,China
+838,weapons,1173,metal,7,China
+839,weapons,329,plastic,8,France
+840,cookware,288,plastic,5,Russia
+841,construction tools,4951,plastic,3,Vietnam
+842,cookware,4737,plastic,4,Guinea
+843,cookware,3531,metal,2,Ukraine
+844,cookware,1173,plastic,5,Indonesia
+845,weapons,1968,plastic,1,Kenya
+846,weapons,3787,metal,6,Russia
+847,cookware,2292,metal,4,China
+848,cookware,2196,metal,2,Portugal
+849,weapons,2861,plastic,8,Portugal
+850,weapons,862,plastic,7,Indonesia
+851,construction tools,3259,metal,2,Russia
+852,weapons,2393,metal,5,Russia
+853,weapons,3210,metal,10,Portugal
+854,construction tools,3779,metal,9,China
+855,cookware,1501,plastic,1,France
+856,construction tools,3355,metal,7,Guinea-Bissau
+857,weapons,4272,plastic,6,France
+858,cookware,130,plastic,6,Portugal
+859,weapons,1198,metal,7,United States
+860,weapons,1368,plastic,9,Ukraine
+861,cookware,1549,metal,1,Canada
+862,construction tools,2169,metal,3,Egypt
+863,construction tools,3199,plastic,3,Sweden
+864,weapons,4254,plastic,8,Indonesia
+865,weapons,4498,metal,5,China
+866,weapons,91,plastic,8,Czech Republic
+867,weapons,3348,metal,5,Philippines
+868,cookware,2576,metal,5,China
+869,weapons,1005,metal,7,France
+870,construction tools,783,metal,4,Tanzania
+871,cookware,2254,plastic,2,Venezuela
+872,weapons,4087,plastic,1,Indonesia
+873,cookware,3246,plastic,4,Portugal
+874,construction tools,3010,plastic,8,Belarus
+875,cookware,2246,plastic,3,Egypt
+876,construction tools,1366,plastic,9,Finland
+877,construction tools,3861,metal,7,Bosnia and Herzegovina
+878,cookware,1827,metal,6,Indonesia
+879,cookware,4389,metal,1,Russia
+880,weapons,2285,plastic,4,Norway
+881,weapons,4187,plastic,7,France
+882,weapons,2993,plastic,6,China
+883,construction tools,3403,plastic,6,Poland
+884,weapons,173,metal,2,Japan
+885,weapons,2628,metal,8,Russia
+886,construction tools,1469,metal,9,Indonesia
+887,cookware,1317,plastic,10,China
+888,construction tools,4156,metal,10,United States
+889,cookware,4932,metal,1,Colombia
+890,construction tools,4262,metal,10,China
+891,cookware,1815,metal,3,France
+892,construction tools,1757,metal,5,China
+893,weapons,1219,plastic,3,Iran
+894,weapons,571,metal,8,Brazil
+895,cookware,2458,plastic,1,China
+896,construction tools,3432,plastic,1,Portugal
+897,weapons,3242,plastic,7,Netherlands
+898,cookware,361,metal,5,China
+899,cookware,1887,metal,7,Brazil
+900,construction tools,562,plastic,8,Jordan
+901,cookware,1960,metal,4,China
+902,weapons,488,metal,3,Finland
+903,construction tools,1804,plastic,9,Philippines
+904,construction tools,2419,plastic,4,Yemen
+905,construction tools,2563,metal,3,Brazil
+906,cookware,1434,metal,4,Estonia
+907,construction tools,120,metal,7,Costa Rica
+908,cookware,3485,plastic,2,Indonesia
+909,construction tools,681,plastic,8,China
+910,cookware,396,plastic,8,Slovenia
+911,weapons,142,metal,10,Philippines
+912,cookware,1406,metal,5,Russia
+913,construction tools,3719,plastic,1,Niger
+914,construction tools,1132,plastic,10,Brazil
+915,construction tools,3897,plastic,6,Armenia
+916,construction tools,186,plastic,6,Philippines
+917,construction tools,961,metal,6,Ecuador
+918,construction tools,434,plastic,5,United States
+919,cookware,4769,plastic,2,Indonesia
+920,cookware,690,plastic,10,Philippines
+921,cookware,2559,plastic,3,Canada
+922,weapons,3232,plastic,2,Croatia
+923,cookware,404,metal,6,Russia
+924,cookware,1638,metal,4,Sweden
+925,construction tools,985,plastic,8,China
+926,cookware,1290,metal,9,Philippines
+927,cookware,3839,metal,2,Sweden
+928,weapons,2235,metal,6,Poland
+929,construction tools,1472,metal,10,Finland
+930,cookware,1861,plastic,5,China
+931,cookware,4714,plastic,8,Malaysia
+932,weapons,2896,metal,3,China
+933,weapons,3299,plastic,10,Japan
+934,cookware,1406,plastic,3,Croatia
+935,cookware,705,metal,6,China
+936,construction tools,1764,plastic,6,Philippines
+937,construction tools,199,metal,9,Poland
+938,weapons,613,plastic,6,Sweden
+939,cookware,4277,plastic,8,Indonesia
+940,weapons,1104,plastic,1,China
+941,construction tools,4387,plastic,5,Russia
+942,weapons,875,plastic,3,Peru
+943,weapons,4907,plastic,3,Russia
+944,construction tools,1474,plastic,6,Sweden
+945,weapons,141,plastic,10,Brazil
+946,weapons,1606,metal,9,Nigeria
+947,construction tools,763,plastic,7,Indonesia
+948,cookware,3979,plastic,5,France
+949,weapons,3872,metal,2,Nigeria
+950,cookware,3842,metal,5,Indonesia
+951,cookware,1037,plastic,5,China
+952,weapons,4899,metal,2,Bahamas
+953,cookware,4811,metal,5,Indonesia
+954,cookware,2582,plastic,2,South Africa
+955,construction tools,3946,metal,10,Thailand
+956,weapons,4073,metal,5,Indonesia
+957,construction tools,4220,plastic,6,Ukraine
+958,construction tools,4368,metal,8,Indonesia
+959,cookware,2801,metal,10,Sweden
+960,cookware,1837,plastic,6,Philippines
+961,cookware,1129,plastic,7,Mauritius
+962,weapons,4319,metal,10,Venezuela
+963,cookware,453,plastic,3,China
+964,cookware,513,plastic,10,Bolivia
+965,cookware,517,metal,9,Indonesia
+966,construction tools,2641,metal,7,Mozambique
+967,weapons,1051,metal,2,Poland
+968,construction tools,1985,plastic,2,China
+969,construction tools,4250,metal,2,China
+970,weapons,1137,metal,10,Mexico
+971,weapons,2164,metal,4,China
+972,cookware,4822,plastic,8,China
+973,weapons,3071,plastic,2,Indonesia
+974,weapons,968,plastic,9,Venezuela
+975,weapons,1103,plastic,5,Indonesia
+976,construction tools,1995,plastic,5,Philippines
+977,cookware,3318,metal,1,Ethiopia
+978,weapons,821,metal,9,Madagascar
+979,construction tools,4778,plastic,2,Libya
+980,weapons,3797,metal,8,France
+981,cookware,4443,metal,2,Indonesia
+982,cookware,948,plastic,7,Guinea-Bissau
+983,weapons,4302,metal,3,Indonesia
+984,weapons,2602,plastic,9,China
+985,construction tools,4335,metal,2,China
+986,weapons,925,plastic,2,China
+987,cookware,3310,metal,6,Honduras
+988,cookware,4319,plastic,3,Thailand
+989,construction tools,2579,plastic,3,Portugal
+990,cookware,1838,metal,5,Tunisia
+991,construction tools,338,metal,6,Sweden
+992,cookware,1816,metal,4,China
+993,weapons,4662,metal,8,Russia
+994,cookware,3974,plastic,2,South Korea
+995,construction tools,1033,metal,3,Brazil
+996,construction tools,4404,metal,3,China
+997,cookware,4075,metal,8,Colombia
+998,construction tools,4996,plastic,8,Serbia
+999,cookware,4790,plastic,3,Sweden
+1000,weapons,3767,metal,7,Japan

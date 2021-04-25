@@ -7,7 +7,7 @@ CREATE TABLE suppliers
   frequency_of_arrival INT NOT NULL,
   phoneNumber INT NOT NULL,
   product VARCHAR(100) NOT NULL,
-  reliability int NOT NULL,
+  reliability INT NOT NULL,
   quantity INT NOT NULL,
   gender VARCHAR(6) NOT NULL,
   PRIMARY KEY (id)
@@ -21,7 +21,6 @@ CREATE TABLE equipment
   material VARCHAR(100) NOT NULL,
   quality INT NOT NULL,
   manufacturing_country VARCHAR(20) NOT NULL,
-  target VARCHAR(100) NOT NULL,
   PRIMARY KEY (serialNumber)
 );
 
